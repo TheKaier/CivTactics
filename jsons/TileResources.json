@@ -1,0 +1,798 @@
+[
+{
+		"name": "Stage",//阶段
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "Slot position",//槽位
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		//"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "HP",//生命
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "NOR",//回合数
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "Troops",//剩余部队
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		//"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "RN1",//
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "RN2",//
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "RN3",//
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "TheAge",//文明时代
+		"resourceType": "Strategic",
+		//"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+//"Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "R0",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R1",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R2",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R3",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R4",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R5",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R6",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R7",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R8",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R9",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R10",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R11",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R12",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R13",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R14",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R15",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R16",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R17",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R18",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R19",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R20",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R21",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R22",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R23",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R24",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R25",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R26",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R27",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R28",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R29",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R30",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R31",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R32",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R33",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R34",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R35",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R36",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R37",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R38",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R39",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R40",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R41",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R42",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R43",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R44",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R45",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R46",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R47",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R48",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R49",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R50",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R51",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R52",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R53",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R54",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R55",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R56",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R57",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R58",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R59",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R60",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R61",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R62",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R63",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R64",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R65",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R66",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R67",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R68",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "R69",
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded",//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen",//不显示
+		]
+	}
+	
+	
+	
+	
+	
+	
+]

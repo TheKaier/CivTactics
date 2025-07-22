@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land"
+        "uniques": [
+		//"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Sword",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Ranged Gunpowder",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Ranged Water",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units",
+        "Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+        ]
+    },
+    {
+        "name": "Aircraft Carrier",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep",
+        "Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+        ]
+    },
+    {
+        "name": "Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft","Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",]
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft","Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",]
+    },
+    {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted","Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",]
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles","Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",]
+    },
+
+    // Deprecated unit types required for mods without a UnitTypes.json file to work
+
+    {
+        "name": "Melee",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Ranged",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "Armor",
+        "movementType": "Land"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+		
+    },
+    {
+        "name": "WaterCivilian",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "WaterMelee",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "WaterRanged",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "WaterSubmarine",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "WaterAircraftCarrier",
+        "movementType": "Water"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    },
+    {
+        "name": "AtomicBomber",
+        "movementType": "Air"
+        "uniques": [
+		"Consumes [-1] [Troops]",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+		],
+    }
+]

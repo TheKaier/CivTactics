@@ -1,0 +1,2471 @@
+[
+
+
+{
+        "name": "2player",//几人局
+        "cost": 0,
+        "uniques":[
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"]
+    },
+{
+        "name": "3player",//几人局
+        "cost": 0,
+        "uniques":[
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"]
+    },
+{
+        "name": "4player",//几人局
+        "cost": 0,
+        "uniques":[
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"]
+    },
+
+{
+        "name": "AllAreGone1",//俱往矣
+        "cost": 0,
+        "uniques":[
+        "Instantly provides [1] [Stage]",
+        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]>",
+        "Unavailable <if [AllAreGone1] is constructed by anybody> <in cities with a [AllAreGone]>",
+        "Automatically built in all cities where it is buildable",
+        "AllAreGone",
+        "Gain [250] [Gold]",
+        ]
+    },
+{
+        "name": "AllAreGone2",//俱往矣
+        "cost": 0,
+        "uniques":[
+        "Instantly provides [1] [Stage]",
+        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]> <if [AllAreGone1] is constructed by anybody>",
+        "Unavailable <if [AllAreGone2] is constructed by anybody> <in cities with a [AllAreGone]>",
+        "Automatically built in all cities where it is buildable",
+        "AllAreGone",
+        "Gain [200] [Gold]",
+        ]
+    },
+{
+        "name": "AllAreGone3",//俱往矣
+        "cost": 0,
+        "uniques":[
+        "Instantly provides [1] [Stage]",
+        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody>",
+        "Unavailable <if [AllAreGone3] is constructed by anybody> <in cities with a [AllAreGone]>",
+        "Automatically built in all cities where it is buildable",
+        "AllAreGone",
+        "Gain [150] [Gold]",
+        ]
+    },
+{
+        "name": "TheGreatestMoment1",//至伟时刻
+        "cost": 0,
+        "uniques":[
+        "Instantly provides [1] [Stage] <upon turn start>",
+        "Only available <when number of [Stage] is equal to [3]> <when [2player] Victory is enabled> <if [AllAreGone1] is constructed by anybody>",
+        "Unavailable <in cities with a [AllAreGone]>",
+        "Automatically built in all cities where it is buildable",
+        "Gain [300] [Gold]",
+        "TheGreatestMoment",
+        ]
+    },
+{
+        "name": "TheGreatestMoment2",//至伟时刻
+        "cost": 0,
+        "uniques":[
+        "Instantly provides [1] [Stage] <upon turn start>",
+        "Only available <when number of [Stage] is equal to [3]> <when [3player] Victory is enabled> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody>",
+        "Unavailable <in cities with a [AllAreGone]>",
+        "Automatically built in all cities where it is buildable",
+        "Gain [350] [Gold]",
+        "TheGreatestMoment",
+        ]
+    },
+{
+        "name": "TheGreatestMoment3",//至伟时刻
+        "cost": 0,
+        "uniques":[
+        "Instantly provides [1] [Stage] <upon turn start>",
+        "Only available <when number of [Stage] is equal to [3]> <when [3player] Victory is enabled> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody> <if [AllAreGone3] is constructed by anybody>",
+        "Unavailable <in cities with a [AllAreGone]>",
+        "Automatically built in all cities where it is buildable",
+        "Gain [400] [Gold]",
+        "TheGreatestMoment",
+        ]
+    },
+
+
+{
+        "name": "EndThePain1",//终结苦痛
+        "cost": 0,
+        "uniques":[
+        "Instantly consumes [5] [Stage]",
+        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment1] is constructed by anybody>",
+        "Automatically built in all cities where it is buildable",
+        "Remove [EndThePain1] [in this city] <hidden from users>",
+        "Remove [TheGreatestMoment1] [in this city] <hidden from users>",
+        "Remove [AllAreGone1] [in this city] <hidden from users>",
+        
+        ]
+    },
+{
+        "name": "EndThePain2",//终结苦痛
+        "cost": 0,
+        "uniques":[
+        "Instantly consumes [5] [Stage]",
+        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment2] is constructed by anybody>",
+        "Automatically built in all cities where it is buildable",
+        "Remove [EndThePain2] [in this city] <hidden from users>",
+        "Remove [TheGreatestMoment2] [in this city] <hidden from users>",
+        "Remove [AllAreGone1] [in this city] <hidden from users>",
+        "Remove [AllAreGone2] [in this city] <hidden from users>",
+        ]
+    },
+{
+        "name": "EndThePain3",//终结苦痛
+        "cost": 0,
+        "uniques":[
+        "Instantly consumes [5] [Stage]",
+        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment3] is constructed by anybody>",
+        "Automatically built in all cities where it is buildable",
+        "Remove [EndThePain3] [in this city] <hidden from users>",
+        "Remove [TheGreatestMoment3] [in this city] <hidden from users>",
+        "Remove [AllAreGone1] [in this city] <hidden from users>",
+        "Remove [AllAreGone2] [in this city] <hidden from users>",
+        "Remove [AllAreGone3] [in this city] <hidden from users>",
+        
+        
+        
+        ]
+    },
+
+
+
+
+
+
+
+
+{
+		"name": "A0-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R0]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R0]> <hidden from users>",
+		],
+	},
+{
+		"name": "A1-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R1]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R1]> <hidden from users>",
+		],
+	},
+{
+		"name": "A2-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R2]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R2]> <hidden from users>",
+		],
+	},
+{
+		"name": "A3-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R3]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R3]> <hidden from users>",
+		],
+	},
+{
+		"name": "A4-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R4]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R4]> <hidden from users>",
+		],
+	},
+{
+		"name": "A5-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R5]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R5]> <hidden from users>",
+		],
+	},
+{
+		"name": "A6-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R6]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R6]> <hidden from users>",
+		],
+	},
+{
+		"name": "A7-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R7]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R7]> <hidden from users>",
+		],
+	},
+{
+		"name": "A8-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R8]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R8]> <hidden from users>",
+		],
+	},
+{
+		"name": "A9-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R9]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R9]> <hidden from users>",
+		],
+	},
+{
+		"name": "A10-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R10]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R10]> <hidden from users>",
+		],
+	},
+{
+		"name": "A11-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R11]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Maori Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R11]> <hidden from users>",
+		],
+	},
+{
+		"name": "A12-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R12]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R12]> <hidden from users>",
+		],
+	},
+{
+		"name": "A13-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R13]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R13]> <hidden from users>",
+		],
+	},
+{
+		"name": "A14-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R14]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R14]> <hidden from users>",
+		],
+	},
+{
+		"name": "A15-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R15]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R15]> <hidden from users>",
+		],
+	},
+{
+		"name": "A16-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R16]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R16]> <hidden from users>",
+		],
+	},
+{
+		"name": "A17-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R17]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Slinger] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R17]> <hidden from users>",
+		],
+	},
+{
+		"name": "A18-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R18]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horseman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R18]> <hidden from users>",
+		],
+	},
+{
+		"name": "A19-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R19]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Swordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R19]> <hidden from users>",
+		],
+	},
+{
+		"name": "A20-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R20]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Cataphract] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R20]> <hidden from users>",
+		],
+	},
+{
+		"name": "A21-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R21]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R21]> <hidden from users>",
+		],
+	},
+{
+		"name": "A22-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R22]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R22]> <hidden from users>",
+		],
+	},
+{
+		"name": "A23-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R23]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Chariot Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R23]> <hidden from users>",
+		],
+	},
+{
+		"name": "A24-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R24]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R24]> <hidden from users>",
+		],
+	},
+{
+		"name": "A25-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R25]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R25]> <hidden from users>",
+		],
+	},
+{
+		"name": "A26-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R26]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R26]> <hidden from users>",
+		],
+	},
+{
+		"name": "A27-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R27]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R27]> <hidden from users>",
+		],
+	},
+{
+		"name": "A28-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R28]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R28]> <hidden from users>",
+		],
+	},
+{
+		"name": "A29-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R29]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R29]> <hidden from users>",
+		],
+	},
+{
+		"name": "A30-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R30]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Hoplite] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R30]> <hidden from users>",
+		],
+	},
+{
+		"name": "A31-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R31]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R31]> <hidden from users>",
+		],
+	},
+{
+		"name": "A32-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R32]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R32]> <hidden from users>",
+		],
+	},
+{
+		"name": "A33-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R33]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R33]> <hidden from users>",
+		],
+	},
+{
+		"name": "A34-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R34]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R34]> <hidden from users>",
+		],
+	},
+{
+		"name": "A35-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R35]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Landsknecht] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R35]> <hidden from users>",
+		],
+	},
+{
+		"name": "A36-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R36]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R36]> <hidden from users>",
+		],
+	},
+{
+		"name": "A37-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R37]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Pikeman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R37]> <hidden from users>",
+		],
+	},
+{
+		"name": "A38-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R38]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R38]> <hidden from users>",
+		],
+	},
+{
+		"name": "A39-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R39]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R39]> <hidden from users>",
+		],
+	},
+{
+		"name": "A40-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R40]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Hoplite] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R40]> <hidden from users>",
+		],
+	},
+{
+		"name": "A41-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R41]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R41]> <hidden from users>",
+		],
+	},
+{
+		"name": "A42-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R42]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R42]> <hidden from users>",
+		],
+	},
+{
+		"name": "A43-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R43]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R43]> <hidden from users>",
+		],
+	},
+{
+		"name": "A44-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R44]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R44]> <hidden from users>",
+		],
+	},
+{
+		"name": "A45-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R45]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Landsknecht] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R45]> <hidden from users>",
+		],
+	},
+{
+		"name": "A46-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R46]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R46]> <hidden from users>",
+		],
+	},
+{
+		"name": "A47-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R47]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Pikeman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R47]> <hidden from users>",
+		],
+	},
+{
+		"name": "A48-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R48]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R48]> <hidden from users>",
+		],
+	},
+{
+		"name": "A49-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R49]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R49]> <hidden from users>",
+		],
+	},
+{
+		"name": "A50-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R50]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R50]> <hidden from users>",
+		],
+	},
+{
+		"name": "A51-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R51]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Longbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R51]> <hidden from users>",
+		],
+	},
+{
+		"name": "A52-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R52]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Musketman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R52]> <hidden from users>",
+		],
+	},
+{
+		"name": "A53-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R53]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R53]> <hidden from users>",
+		],
+	},
+{
+		"name": "A54-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R54]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R54]> <hidden from users>",
+		],
+	},
+{
+		"name": "A55-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R55]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R55]> <hidden from users>",
+		],
+	},
+{
+		"name": "A56-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R56]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Longswordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R56]> <hidden from users>",
+		],
+	},
+{
+		"name": "A57-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R57]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Keshik] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R57]> <hidden from users>",
+		],
+	},
+{
+		"name": "A58-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R58]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Hwach'a] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R58]> <hidden from users>",
+		],
+	},
+{
+		"name": "A59-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R59]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Knight] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R59]> <hidden from users>",
+		],
+	},
+{
+		"name": "A60-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R60]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R60]> <hidden from users>",
+		],
+	},
+{
+		"name": "A61-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R61]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Longbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R61]> <hidden from users>",
+		],
+	},
+{
+		"name": "A62-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R62]",
+			"Consumes [1] [Slot position]",
+		"[3] free [Musketman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R62]> <hidden from users>",
+		],
+	},
+{
+		"name": "A63-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R63]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R63]> <hidden from users>",
+		],
+	},
+{
+		"name": "A64-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R64]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Longswordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R64]> <hidden from users>",
+		],
+	},
+{
+		"name": "A65-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R65]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Keshik] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R65]> <hidden from users>",
+		],
+	},
+{
+		"name": "A66-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R66]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Hwach'a] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R66]> <hidden from users>",
+		],
+	},
+{
+		"name": "A67-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R67]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R67]> <hidden from users>",
+		],
+	},
+{
+		"name": "A68-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R68]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R68]> <hidden from users>",
+		],
+	},
+{
+		"name": "A69-1",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R69]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Knight] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R69]> <hidden from users>",
+		],
+	},
+	{
+		"name": "A0-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R0]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R0]> <hidden from users>",
+		],
+	},
+{
+		"name": "A1-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R1]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R1]> <hidden from users>",
+		],
+	},
+{
+		"name": "A2-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R2]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R2]> <hidden from users>",
+		],
+	},
+{
+		"name": "A3-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R3]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R3]> <hidden from users>",
+		],
+	},
+{
+		"name": "A4-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R4]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R4]> <hidden from users>",
+		],
+	},
+{
+		"name": "A5-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R5]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R5]> <hidden from users>",
+		],
+	},
+{
+		"name": "A6-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R6]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R6]> <hidden from users>",
+		],
+	},
+{
+		"name": "A7-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R7]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R7]> <hidden from users>",
+		],
+	},
+{
+		"name": "A8-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R8]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R8]> <hidden from users>",
+		],
+	},
+{
+		"name": "A9-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R9]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R9]> <hidden from users>",
+		],
+	},
+{
+		"name": "A10-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R10]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R10]> <hidden from users>",
+		],
+	},
+{
+		"name": "A11-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R11]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Maori Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R11]> <hidden from users>",
+		],
+	},
+{
+		"name": "A12-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R12]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R12]> <hidden from users>",
+		],
+	},
+{
+		"name": "A13-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R13]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R13]> <hidden from users>",
+		],
+	},
+{
+		"name": "A14-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R14]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R14]> <hidden from users>",
+		],
+	},
+{
+		"name": "A15-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R15]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R15]> <hidden from users>",
+		],
+	},
+{
+		"name": "A16-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R16]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R16]> <hidden from users>",
+		],
+	},
+{
+		"name": "A17-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R17]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Slinger] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R17]> <hidden from users>",
+		],
+	},
+{
+		"name": "A18-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R18]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horseman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R18]> <hidden from users>",
+		],
+	},
+{
+		"name": "A19-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R19]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Swordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R19]> <hidden from users>",
+		],
+	},
+{
+		"name": "A20-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R20]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Cataphract] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R20]> <hidden from users>",
+		],
+	},
+{
+		"name": "A21-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R21]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R21]> <hidden from users>",
+		],
+	},
+{
+		"name": "A22-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R22]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R22]> <hidden from users>",
+		],
+	},
+{
+		"name": "A23-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R23]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Chariot Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R23]> <hidden from users>",
+		],
+	},
+{
+		"name": "A24-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R24]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R24]> <hidden from users>",
+		],
+	},
+{
+		"name": "A25-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R25]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R25]> <hidden from users>",
+		],
+	},
+{
+		"name": "A26-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R26]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R26]> <hidden from users>",
+		],
+	},
+{
+		"name": "A27-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R27]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R27]> <hidden from users>",
+		],
+	},
+{
+		"name": "A28-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R28]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R28]> <hidden from users>",
+		],
+	},
+{
+		"name": "A29-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R29]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R29]> <hidden from users>",
+		],
+	},
+{
+		"name": "A30-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R30]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Hoplite] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R30]> <hidden from users>",
+		],
+	},
+{
+		"name": "A31-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R31]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R31]> <hidden from users>",
+		],
+	},
+{
+		"name": "A32-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R32]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R32]> <hidden from users>",
+		],
+	},
+{
+		"name": "A33-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R33]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R33]> <hidden from users>",
+		],
+	},
+{
+		"name": "A34-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R34]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R34]> <hidden from users>",
+		],
+	},
+{
+		"name": "A35-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R35]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Landsknecht] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R35]> <hidden from users>",
+		],
+	},
+{
+		"name": "A36-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R36]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R36]> <hidden from users>",
+		],
+	},
+{
+		"name": "A37-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R37]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Pikeman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R37]> <hidden from users>",
+		],
+	},
+{
+		"name": "A38-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R38]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R38]> <hidden from users>",
+		],
+	},
+{
+		"name": "A39-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R39]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R39]> <hidden from users>",
+		],
+	},
+{
+		"name": "A40-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R40]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Hoplite] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R40]> <hidden from users>",
+		],
+	},
+{
+		"name": "A41-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R41]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R41]> <hidden from users>",
+		],
+	},
+{
+		"name": "A42-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R42]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R42]> <hidden from users>",
+		],
+	},
+{
+		"name": "A43-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R43]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R43]> <hidden from users>",
+		],
+	},
+{
+		"name": "A44-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R44]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R44]> <hidden from users>",
+		],
+	},
+{
+		"name": "A45-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R45]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Landsknecht] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R45]> <hidden from users>",
+		],
+	},
+{
+		"name": "A46-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R46]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R46]> <hidden from users>",
+		],
+	},
+{
+		"name": "A47-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R47]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Pikeman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R47]> <hidden from users>",
+		],
+	},
+{
+		"name": "A48-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R48]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R48]> <hidden from users>",
+		],
+	},
+{
+		"name": "A49-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R49]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R49]> <hidden from users>",
+		],
+	},
+{
+		"name": "A50-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R50]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R50]> <hidden from users>",
+		],
+	},
+{
+		"name": "A51-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R51]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Longbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R51]> <hidden from users>",
+		],
+	},
+{
+		"name": "A52-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R52]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Musketman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R52]> <hidden from users>",
+		],
+	},
+{
+		"name": "A53-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R53]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R53]> <hidden from users>",
+		],
+	},
+{
+		"name": "A54-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R54]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R54]> <hidden from users>",
+		],
+	},
+{
+		"name": "A55-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R55]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R55]> <hidden from users>",
+		],
+	},
+{
+		"name": "A56-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R56]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Longswordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R56]> <hidden from users>",
+		],
+	},
+{
+		"name": "A57-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R57]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Keshik] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R57]> <hidden from users>",
+		],
+	},
+{
+		"name": "A58-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R58]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Hwach'a] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R58]> <hidden from users>",
+		],
+	},
+{
+		"name": "A59-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R59]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Knight] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R59]> <hidden from users>",
+		],
+	},
+{
+		"name": "A60-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R60]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R60]> <hidden from users>",
+		],
+	},
+{
+		"name": "A61-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R61]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Longbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R61]> <hidden from users>",
+		],
+	},
+{
+		"name": "A62-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R62]",
+			"Consumes [1] [Slot position]",
+		"[3] free [Musketman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R62]> <hidden from users>",
+		],
+	},
+{
+		"name": "A63-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R63]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R63]> <hidden from users>",
+		],
+	},
+{
+		"name": "A64-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R64]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Longswordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R64]> <hidden from users>",
+		],
+	},
+{
+		"name": "A65-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R65]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Keshik] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R65]> <hidden from users>",
+		],
+	},
+{
+		"name": "A66-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R66]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Hwach'a] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R66]> <hidden from users>",
+		],
+	},
+{
+		"name": "A67-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R67]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R67]> <hidden from users>",
+		],
+	},
+{
+		"name": "A68-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R68]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R68]> <hidden from users>",
+		],
+	},
+{
+		"name": "A69-2",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R69]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Knight] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R69]> <hidden from users>",
+		],
+	},
+	{
+		"name": "A0-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R0]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R0]> <hidden from users>",
+		],
+	},
+{
+		"name": "A1-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R1]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R1]> <hidden from users>",
+		],
+	},
+{
+		"name": "A2-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R2]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R2]> <hidden from users>",
+		],
+	},
+{
+		"name": "A3-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R3]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R3]> <hidden from users>",
+		],
+	},
+{
+		"name": "A4-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R4]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R4]> <hidden from users>",
+		],
+	},
+{
+		"name": "A5-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R5]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R5]> <hidden from users>",
+		],
+	},
+{
+		"name": "A6-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R6]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R6]> <hidden from users>",
+		],
+	},
+{
+		"name": "A7-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R7]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R7]> <hidden from users>",
+		],
+	},
+{
+		"name": "A8-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R8]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R8]> <hidden from users>",
+		],
+	},
+{
+		"name": "A9-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R9]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R9]> <hidden from users>",
+		],
+	},
+{
+		"name": "A10-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R10]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R10]> <hidden from users>",
+		],
+	},
+{
+		"name": "A11-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R11]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Maori Warrior] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R11]> <hidden from users>",
+		],
+	},
+{
+		"name": "A12-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R12]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R12]> <hidden from users>",
+		],
+	},
+{
+		"name": "A13-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R13]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R13]> <hidden from users>",
+		],
+	},
+{
+		"name": "A14-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R14]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R14]> <hidden from users>",
+		],
+	},
+{
+		"name": "A15-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R15]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R15]> <hidden from users>",
+		],
+	},
+{
+		"name": "A16-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R16]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R16]> <hidden from users>",
+		],
+	},
+{
+		"name": "A17-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R17]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Slinger] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R17]> <hidden from users>",
+		],
+	},
+{
+		"name": "A18-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R18]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horseman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R18]> <hidden from users>",
+		],
+	},
+{
+		"name": "A19-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R19]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Swordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Scout] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R19]> <hidden from users>",
+		],
+	},
+{
+		"name": "A20-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R20]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Cataphract] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R20]> <hidden from users>",
+		],
+	},
+{
+		"name": "A21-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R21]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R21]> <hidden from users>",
+		],
+	},
+{
+		"name": "A22-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R22]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R22]> <hidden from users>",
+		],
+	},
+{
+		"name": "A23-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R23]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Chariot Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R23]> <hidden from users>",
+		],
+	},
+{
+		"name": "A24-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R24]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R24]> <hidden from users>",
+		],
+	},
+{
+		"name": "A25-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R25]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R25]> <hidden from users>",
+		],
+	},
+{
+		"name": "A26-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R26]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Persian Immortal] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R26]> <hidden from users>",
+		],
+	},
+{
+		"name": "A27-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R27]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R27]> <hidden from users>",
+		],
+	},
+{
+		"name": "A28-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R28]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R28]> <hidden from users>",
+		],
+	},
+{
+		"name": "A29-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R29]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R29]> <hidden from users>",
+		],
+	},
+{
+		"name": "A30-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R30]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Hoplite] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R30]> <hidden from users>",
+		],
+	},
+{
+		"name": "A31-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R31]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R31]> <hidden from users>",
+		],
+	},
+{
+		"name": "A32-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R32]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R32]> <hidden from users>",
+		],
+	},
+{
+		"name": "A33-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R33]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R33]> <hidden from users>",
+		],
+	},
+{
+		"name": "A34-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R34]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R34]> <hidden from users>",
+		],
+	},
+{
+		"name": "A35-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R35]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Landsknecht] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R35]> <hidden from users>",
+		],
+	},
+{
+		"name": "A36-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R36]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R36]> <hidden from users>",
+		],
+	},
+{
+		"name": "A37-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R37]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Pikeman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R37]> <hidden from users>",
+		],
+	},
+{
+		"name": "A38-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R38]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R38]> <hidden from users>",
+		],
+	},
+{
+		"name": "A39-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R39]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R39]> <hidden from users>",
+		],
+	},
+{
+		"name": "A40-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R40]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Hoplite] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Companion Cavalry] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R40]> <hidden from users>",
+		],
+	},
+{
+		"name": "A41-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R41]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Legion] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R41]> <hidden from users>",
+		],
+	},
+{
+		"name": "A42-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R42]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Horse Archer] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R42]> <hidden from users>",
+		],
+	},
+{
+		"name": "A43-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R43]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Spearman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R43]> <hidden from users>",
+		],
+	},
+{
+		"name": "A44-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R44]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R44]> <hidden from users>",
+		],
+	},
+{
+		"name": "A45-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R45]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Landsknecht] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R45]> <hidden from users>",
+		],
+	},
+{
+		"name": "A46-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R46]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Composite Bowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R46]> <hidden from users>",
+		],
+	},
+{
+		"name": "A47-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R47]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"[1] free [Pikeman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R47]> <hidden from users>",
+		],
+	},
+{
+		"name": "A48-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R48]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R48]> <hidden from users>",
+		],
+	},
+{
+		"name": "A49-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R49]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R49]> <hidden from users>",
+		],
+	},
+{
+		"name": "A50-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R50]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R50]> <hidden from users>",
+		],
+	},
+{
+		"name": "A51-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R51]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Longbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R51]> <hidden from users>",
+		],
+	},
+{
+		"name": "A52-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R52]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Musketman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R52]> <hidden from users>",
+		],
+	},
+{
+		"name": "A53-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R53]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R53]> <hidden from users>",
+		],
+	},
+{
+		"name": "A54-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R54]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R54]> <hidden from users>",
+		],
+	},
+{
+		"name": "A55-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R55]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R55]> <hidden from users>",
+		],
+	},
+{
+		"name": "A56-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R56]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Longswordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R56]> <hidden from users>",
+		],
+	},
+{
+		"name": "A57-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R57]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Keshik] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R57]> <hidden from users>",
+		],
+	},
+{
+		"name": "A58-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R58]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Hwach'a] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R58]> <hidden from users>",
+		],
+	},
+{
+		"name": "A59-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R59]",
+		"Consumes [1] [Slot position]",
+		"[2] free [Knight] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R59]> <hidden from users>",
+		],
+	},
+{
+		"name": "A60-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R60]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Chu-Ko-Nu] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R60]> <hidden from users>",
+		],
+	},
+{
+		"name": "A61-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R61]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Longbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R61]> <hidden from users>",
+		],
+	},
+{
+		"name": "A62-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R62]",
+			"Consumes [1] [Slot position]",
+		"[3] free [Musketman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R62]> <hidden from users>",
+		],
+	},
+{
+		"name": "A63-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R63]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Crossbowman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R63]> <hidden from users>",
+		],
+	},
+{
+		"name": "A64-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R64]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Longswordsman] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R64]> <hidden from users>",
+		],
+	},
+{
+		"name": "A65-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R65]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Keshik] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R65]> <hidden from users>",
+		],
+	},
+{
+		"name": "A66-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R66]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Hwach'a] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R66]> <hidden from users>",
+		],
+	},
+{
+		"name": "A67-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R67]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Great General] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R67]> <hidden from users>",
+		],
+	},
+{
+		"name": "A68-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R68]",
+		"Consumes [1] [Slot position]",
+		"[1] free [Worker] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R68]> <hidden from users>",
+		],
+	},
+{
+		"name": "A69-3",
+		"cost": 0,
+		"uniques": [
+		"Instantly consumes [1] [R69]",
+		"Consumes [1] [Slot position]",
+		"[3] free [Knight] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		//"[1] free [xxxxxx] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		"Only available <when above [0] [R69]> <hidden from users>",
+		],
+	},
+
+
+
+
+
+
+
+
+
+
+]

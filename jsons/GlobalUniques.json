@@ -1,0 +1,79 @@
+{
+   "name": "Global uniques",
+    "uniques": [
+        "[-100]% unhappiness from the number of cities",//城市不扣快乐
+        "[-100]% Unhappiness from [Population] [in all cities]",//人口不扣快乐
+        "[-1 Happiness] for every known Natural Wonder",//发现奇观不加快乐
+        "[-4] Happiness from each type of luxury resource",//奢侈品不加快乐
+		"[-1 Science] per [1] population [in all cities]",//取消人头瓶
+		"[-100]% Strength for cities <when attacking>",//取消初始城市攻击
+        "[-100]% maintenance costs",//单位维护费修正
+        "[-1 Gold] from every [River]",//删除河流给钱
+        "[-100]% [Gold] from Trade Routes",//取消贸易路线产出
+        "[-100]% Golden Age length",//取消黄金时代
+        "[-100]% Culture cost of adopting new Policies",
+		"Nullifies [Science] [in all cities]",
+		"Nullifies [Culture] [in all cities]",
+		"Nullifies [Gold] [in all cities]",
+		"Nullifies [Faith] [in all cities]",
+		"Nullifies [Production] [in all cities]",
+        
+        //初始化
+        "Instantly provides [20] [HP]",
+        "Gain [500] [Gold]",
+        "Provides [8] [Slot position]",
+        
+        "Triggers a [Buy] event <when number of [Stage] is equal to [1]> <upon turn start>",
+        
+        
+        //游戏进行
+        "Instantly provides [1] [Stage] <when below [3] [Stage]> <upon turn end>",
+        //"Instantly provides [1] [Stage] <when number of [Stage] is equal to [3]> <when below [1] [Troops]> <upon turn end>",
+        "Gain [5] [Gold] <for every [50] [Gold]> <when number of [Stage] is equal to [2]> <upon turn start>",
+        //"[This Unit] takes [100] damage <for [All] units> <when number of [Stage] is equal to [0]> <upon turn start>",
+        
+        //清空
+        "Instantly consumes [1] [RN1] <for every [1] [RN1]> <when number of [Stage] is equal to [2]> <upon turn start>",
+        "Instantly consumes [1] [RN2] <for every [1] [RN2]> <when number of [Stage] is equal to [2]> <upon turn start>",
+        "Instantly consumes [1] [RN3] <for every [1] [RN3]> <when number of [Stage] is equal to [2]> <upon turn start>",
+        
+        //时代
+        "Instantly provides [10] [RN1] <when number of [Stage] is equal to [0]> <for every [1] [TheAge]> <upon turn start>",
+        "Instantly provides [10] [RN2] <when number of [Stage] is equal to [0]> <for every [1] [TheAge]> <upon turn start>",
+        "Instantly provides [10] [RN3] <when number of [Stage] is equal to [0]> <for every [1] [TheAge]> <upon turn start>",
+        
+        
+        //"Instantly provides [1] [RN1] <with [10]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [10]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [20]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [30]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [40]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [50]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [60]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [70]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [80]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN1] <with [90]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        
+        "Instantly provides [1] [RN2] <with [10]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN2] <with [20]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN2] <with [30]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN2] <with [40]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN2] <with [50]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN2] <with [60]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN2] <with [70]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN2] <with [80]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN2] <with [90]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        
+        "Instantly provides [1] [RN3] <with [10]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN3] <with [20]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN3] <with [30]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN3] <with [40]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN3] <with [50]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN3] <with [60]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN3] <with [70]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN3] <with [80]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        "Instantly provides [1] [RN3] <with [90]% chance> <when number of [Stage] is equal to [0]> <upon turn start>",
+        
+            ]
+          
+}
