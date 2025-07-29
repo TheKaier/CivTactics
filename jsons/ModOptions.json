@@ -1,3 +1,14 @@
 {
-    "isBaseRuleset": true,
-}
+"isBaseRuleset": true,
+"constants": {
+    "baseCityBombardRange":1,
+    },
+    "uniques":["Can trade civilization introductions for [10] Gold",
+    "Cannot be used as permanent audiovisual mod",
+    "Allow raze capital",
+    "Allow raze holy city"
+    
+    
+    
+    
+    ]}

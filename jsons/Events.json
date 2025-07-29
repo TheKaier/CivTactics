@@ -1,5 +1,16 @@
 [
-    
+    {
+        "name":"Introduce",
+        "text":"Welcome to CivTactics!\n\nThe current mod version is 4.17.9.\n\nIf you encounter any bugs, please report them in QQ group 718331229 or on Discord.\n\nDetailed gameplay instructions can be found in the tutorials.",
+        "choices":[
+        {
+        "text":"I've got it, start the game",
+        "uniques":[
+        
+		    ],
+        },
+        ]
+    },
     {
         "name":"Buy",
         "text":"I've got some new units for you",
@@ -13,6 +24,7 @@
         "Only available <when above [299] [Gold]> <when number of [Stage] is equal to [0]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
 ],
     },
     {
@@ -21,6 +33,7 @@
         "Only available <when above [449] [Gold]> <when number of [Stage] is equal to [1]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-450] [Gold]",
+"Triggers a [Buy] event",
 ],
     },
     {
@@ -29,6 +42,7 @@
         "Only available <when above [649] [Gold]> <when number of [Stage] is equal to [2]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-650] [Gold]",
+"Triggers a [Buy] event",
 ],
     },
     {
@@ -37,6 +51,7 @@
         "Only available <when above [899] [Gold]> <when number of [Stage] is equal to [3]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-900] [Gold]",
+"Triggers a [Buy] event",
 ],
     },
     {
@@ -45,6 +60,7 @@
         "Only available <when above [1199] [Gold]> <when number of [Stage] is equal to [4]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-1200] [Gold]",
+"Triggers a [Buy] event",
 ],
     },
     {
@@ -53,6 +69,7 @@
         "Only available <when above [1199] [Gold]> <when number of [Stage] is equal to [5]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-1200] [Gold]",
+"Triggers a [Buy] event",
 ],
     },
     
@@ -64,6 +81,8 @@
         "uniques":["Instantly provides [1] [R0] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [0]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -71,6 +90,8 @@
         "uniques":["Instantly provides [1] [R1] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [1]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -78,6 +99,8 @@
         "uniques":["Instantly provides [1] [R2] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [2]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -85,6 +108,8 @@
         "uniques":["Instantly provides [1] [R3] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [3]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -92,6 +117,8 @@
         "uniques":["Instantly provides [1] [R4] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [4]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -99,6 +126,8 @@
         "uniques":["Instantly provides [1] [R5] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [5]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -106,6 +135,8 @@
         "uniques":["Instantly provides [1] [R6] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [6]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -113,6 +144,8 @@
         "uniques":["Instantly provides [1] [R7] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [7]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -120,6 +153,8 @@
         "uniques":["Instantly provides [1] [R8] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [8]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -127,6 +162,8 @@
         "uniques":["Instantly provides [1] [R9] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [9]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -134,6 +171,8 @@
         "uniques":["Instantly provides [1] [R10] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [10]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -141,6 +180,8 @@
         "uniques":["Instantly provides [1] [R11] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [11]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -148,6 +189,8 @@
         "uniques":["Instantly provides [1] [R12] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [12]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -155,6 +198,8 @@
         "uniques":["Instantly provides [1] [R13] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [13]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -162,6 +207,8 @@
         "uniques":["Instantly provides [1] [R14] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [14]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -169,6 +216,8 @@
         "uniques":["Instantly provides [1] [R15] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [15]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -176,6 +225,8 @@
         "uniques":["Instantly provides [1] [R16] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [16]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -183,6 +234,8 @@
         "uniques":["Instantly provides [1] [R17] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [17]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -190,6 +243,8 @@
         "uniques":["Instantly provides [1] [R18] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [18]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -197,6 +252,8 @@
         "uniques":["Instantly provides [1] [R19] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [19]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -204,6 +261,8 @@
         "uniques":["Instantly provides [1] [R20] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [20]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -211,6 +270,8 @@
         "uniques":["Instantly provides [1] [R21] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [21]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -218,6 +279,8 @@
         "uniques":["Instantly provides [1] [R22] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [22]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -225,6 +288,8 @@
         "uniques":["Instantly provides [1] [R23] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [23]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -232,6 +297,8 @@
         "uniques":["Instantly provides [1] [R24] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [24]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -239,6 +306,8 @@
         "uniques":["Instantly provides [1] [R25] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [25]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -246,6 +315,8 @@
         "uniques":["Instantly provides [1] [R26] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [26]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -253,6 +324,8 @@
         "uniques":["Instantly provides [1] [R27] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [27]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -260,6 +333,8 @@
         "uniques":["Instantly provides [1] [R28] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [28]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -267,6 +342,8 @@
         "uniques":["Instantly provides [1] [R29] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [29]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -274,6 +351,8 @@
         "uniques":["Instantly provides [1] [R30] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [30]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -281,6 +360,8 @@
         "uniques":["Instantly provides [1] [R31] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [31]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -288,6 +369,8 @@
         "uniques":["Instantly provides [1] [R32] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [32]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -295,6 +378,8 @@
         "uniques":["Instantly provides [1] [R33] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [33]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -302,6 +387,8 @@
         "uniques":["Instantly provides [1] [R34] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [34]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -309,6 +396,8 @@
         "uniques":["Instantly provides [1] [R35] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [35]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -316,6 +405,8 @@
         "uniques":["Instantly provides [1] [R36] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [36]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -323,6 +414,8 @@
         "uniques":["Instantly provides [1] [R37] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [37]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -330,6 +423,8 @@
         "uniques":["Instantly provides [1] [R38] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [38]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -337,6 +432,8 @@
         "uniques":["Instantly provides [1] [R39] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [39]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -344,6 +441,8 @@
         "uniques":["Instantly provides [1] [R40] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [40]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -351,6 +450,8 @@
         "uniques":["Instantly provides [1] [R41] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [41]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -358,6 +459,8 @@
         "uniques":["Instantly provides [1] [R42] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [42]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -365,6 +468,8 @@
         "uniques":["Instantly provides [1] [R43] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [43]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -372,6 +477,8 @@
         "uniques":["Instantly provides [1] [R44] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [44]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -379,6 +486,8 @@
         "uniques":["Instantly provides [1] [R45] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [45]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -386,6 +495,8 @@
         "uniques":["Instantly provides [1] [R46] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [46]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -393,6 +504,8 @@
         "uniques":["Instantly provides [1] [R47] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [47]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -400,6 +513,8 @@
         "uniques":["Instantly provides [1] [R48] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [48]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -407,6 +522,8 @@
         "uniques":["Instantly provides [1] [R49] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [49]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -414,6 +531,8 @@
         "uniques":["Instantly provides [1] [R50] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [50]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -421,6 +540,8 @@
         "uniques":["Instantly provides [1] [R51] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN1] is equal to [51]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -428,6 +549,8 @@
         "uniques":["Instantly provides [1] [R52] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN1] is equal to [52]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -435,6 +558,8 @@
         "uniques":["Instantly provides [1] [R53] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [53]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -442,6 +567,8 @@
         "uniques":["Instantly provides [1] [R54] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [54]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -449,6 +576,8 @@
         "uniques":["Instantly provides [1] [R55] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [55]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -456,6 +585,8 @@
         "uniques":["Instantly provides [1] [R56] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [56]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -463,6 +594,8 @@
         "uniques":["Instantly provides [1] [R57] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [57]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -470,6 +603,8 @@
         "uniques":["Instantly provides [1] [R58] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [58]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -477,6 +612,8 @@
         "uniques":["Instantly provides [1] [R59] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN1] is equal to [59]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -484,6 +621,8 @@
         "uniques":["Instantly provides [1] [R60] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN1] is equal to [60]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -491,6 +630,8 @@
         "uniques":["Instantly provides [1] [R61] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN1] is equal to [61]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -498,6 +639,8 @@
         "uniques":["Instantly provides [1] [R62] <hidden from users>",
         "Only available <when above [849] [Gold]> <when number of [RN1] is equal to [62]> <hidden from users>",
         "Gain [-850] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -505,6 +648,8 @@
         "uniques":["Instantly provides [1] [R63] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN1] is equal to [63]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -512,6 +657,8 @@
         "uniques":["Instantly provides [1] [R64] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN1] is equal to [64]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -519,6 +666,8 @@
         "uniques":["Instantly provides [1] [R65] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN1] is equal to [65]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -526,6 +675,8 @@
         "uniques":["Instantly provides [1] [R66] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN1] is equal to [66]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -533,6 +684,8 @@
         "uniques":["Instantly provides [1] [R67] <hidden from users>",
         "Only available <when above [449] [Gold]> <when number of [RN1] is equal to [67]> <hidden from users>",
         "Gain [-450] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -540,6 +693,8 @@
         "uniques":["Instantly provides [1] [R68] <hidden from users>",
         "Only available <when above [449] [Gold]> <when number of [RN1] is equal to [68]> <hidden from users>",
         "Gain [-450] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],
     },
     {
@@ -547,6 +702,8 @@
         "uniques":["Instantly provides [1] [R69] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN1] is equal to [69]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN1] <for every [1] [RN1]>",
 ],  
     },
         {
@@ -554,6 +711,8 @@
         "uniques":["Instantly provides [1] [R0] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [0]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -561,6 +720,8 @@
         "uniques":["Instantly provides [1] [R1] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [1]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -568,6 +729,8 @@
         "uniques":["Instantly provides [1] [R2] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [2]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -575,6 +738,8 @@
         "uniques":["Instantly provides [1] [R3] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [3]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -582,6 +747,8 @@
         "uniques":["Instantly provides [1] [R4] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [4]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -589,6 +756,8 @@
         "uniques":["Instantly provides [1] [R5] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [5]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -596,6 +765,8 @@
         "uniques":["Instantly provides [1] [R6] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [6]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -603,6 +774,8 @@
         "uniques":["Instantly provides [1] [R7] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [7]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -610,6 +783,8 @@
         "uniques":["Instantly provides [1] [R8] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [8]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -617,6 +792,8 @@
         "uniques":["Instantly provides [1] [R9] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [9]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -624,6 +801,8 @@
         "uniques":["Instantly provides [1] [R10] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [10]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -631,6 +810,8 @@
         "uniques":["Instantly provides [1] [R11] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [11]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -638,6 +819,8 @@
         "uniques":["Instantly provides [1] [R12] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [12]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -645,6 +828,8 @@
         "uniques":["Instantly provides [1] [R13] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [13]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -652,6 +837,8 @@
         "uniques":["Instantly provides [1] [R14] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [14]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -659,6 +846,8 @@
         "uniques":["Instantly provides [1] [R15] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [15]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -666,6 +855,8 @@
         "uniques":["Instantly provides [1] [R16] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [16]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -673,6 +864,8 @@
         "uniques":["Instantly provides [1] [R17] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [17]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -680,6 +873,8 @@
         "uniques":["Instantly provides [1] [R18] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [18]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -687,6 +882,8 @@
         "uniques":["Instantly provides [1] [R19] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [19]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -694,6 +891,8 @@
         "uniques":["Instantly provides [1] [R20] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [20]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -701,6 +900,8 @@
         "uniques":["Instantly provides [1] [R21] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [21]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -708,6 +909,8 @@
         "uniques":["Instantly provides [1] [R22] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [22]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -715,6 +918,8 @@
         "uniques":["Instantly provides [1] [R23] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [23]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -722,6 +927,8 @@
         "uniques":["Instantly provides [1] [R24] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [24]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -729,6 +936,8 @@
         "uniques":["Instantly provides [1] [R25] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [25]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -736,6 +945,8 @@
         "uniques":["Instantly provides [1] [R26] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [26]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -743,6 +954,8 @@
         "uniques":["Instantly provides [1] [R27] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [27]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -750,6 +963,8 @@
         "uniques":["Instantly provides [1] [R28] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [28]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -757,6 +972,8 @@
         "uniques":["Instantly provides [1] [R29] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [29]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -764,6 +981,8 @@
         "uniques":["Instantly provides [1] [R30] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [30]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -771,6 +990,8 @@
         "uniques":["Instantly provides [1] [R31] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [31]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -778,6 +999,8 @@
         "uniques":["Instantly provides [1] [R32] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [32]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -785,6 +1008,8 @@
         "uniques":["Instantly provides [1] [R33] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [33]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -792,6 +1017,8 @@
         "uniques":["Instantly provides [1] [R34] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [34]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -799,6 +1026,8 @@
         "uniques":["Instantly provides [1] [R35] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [35]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -806,6 +1035,8 @@
         "uniques":["Instantly provides [1] [R36] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [36]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -813,6 +1044,8 @@
         "uniques":["Instantly provides [1] [R37] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [37]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -820,6 +1053,8 @@
         "uniques":["Instantly provides [1] [R38] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [38]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -827,6 +1062,8 @@
         "uniques":["Instantly provides [1] [R39] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [39]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -834,6 +1071,8 @@
         "uniques":["Instantly provides [1] [R40] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [40]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -841,6 +1080,8 @@
         "uniques":["Instantly provides [1] [R41] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [41]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -848,6 +1089,8 @@
         "uniques":["Instantly provides [1] [R42] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [42]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -855,6 +1098,8 @@
         "uniques":["Instantly provides [1] [R43] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [43]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -862,6 +1107,8 @@
         "uniques":["Instantly provides [1] [R44] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [44]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -869,6 +1116,8 @@
         "uniques":["Instantly provides [1] [R45] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [45]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -876,6 +1125,8 @@
         "uniques":["Instantly provides [1] [R46] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [46]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -883,6 +1134,8 @@
         "uniques":["Instantly provides [1] [R47] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [47]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -890,6 +1143,8 @@
         "uniques":["Instantly provides [1] [R48] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [48]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -897,6 +1152,8 @@
         "uniques":["Instantly provides [1] [R49] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [49]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -904,6 +1161,8 @@
         "uniques":["Instantly provides [1] [R50] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [50]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -911,6 +1170,8 @@
         "uniques":["Instantly provides [1] [R51] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN2] is equal to [51]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -918,6 +1179,8 @@
         "uniques":["Instantly provides [1] [R52] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN2] is equal to [52]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -925,6 +1188,8 @@
         "uniques":["Instantly provides [1] [R53] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [53]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -932,6 +1197,8 @@
         "uniques":["Instantly provides [1] [R54] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [54]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -939,6 +1206,8 @@
         "uniques":["Instantly provides [1] [R55] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [55]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -946,6 +1215,8 @@
         "uniques":["Instantly provides [1] [R56] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [56]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -953,6 +1224,8 @@
         "uniques":["Instantly provides [1] [R57] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [57]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -960,6 +1233,8 @@
         "uniques":["Instantly provides [1] [R58] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [58]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -967,6 +1242,8 @@
         "uniques":["Instantly provides [1] [R59] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN2] is equal to [59]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -974,6 +1251,8 @@
         "uniques":["Instantly provides [1] [R60] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN2] is equal to [60]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -981,6 +1260,8 @@
         "uniques":["Instantly provides [1] [R61] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN2] is equal to [61]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -988,6 +1269,8 @@
         "uniques":["Instantly provides [1] [R62] <hidden from users>",
         "Only available <when above [849] [Gold]> <when number of [RN2] is equal to [62]> <hidden from users>",
         "Gain [-850] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -995,6 +1278,8 @@
         "uniques":["Instantly provides [1] [R63] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN2] is equal to [63]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -1002,6 +1287,8 @@
         "uniques":["Instantly provides [1] [R64] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN2] is equal to [64]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -1009,6 +1296,8 @@
         "uniques":["Instantly provides [1] [R65] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN2] is equal to [65]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -1016,6 +1305,8 @@
         "uniques":["Instantly provides [1] [R66] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN2] is equal to [66]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -1023,6 +1314,8 @@
         "uniques":["Instantly provides [1] [R67] <hidden from users>",
         "Only available <when above [449] [Gold]> <when number of [RN2] is equal to [67]> <hidden from users>",
         "Gain [-450] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -1030,6 +1323,8 @@
         "uniques":["Instantly provides [1] [R68] <hidden from users>",
         "Only available <when above [449] [Gold]> <when number of [RN2] is equal to [68]> <hidden from users>",
         "Gain [-450] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],
     },
     {
@@ -1037,6 +1332,8 @@
         "uniques":["Instantly provides [1] [R69] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN2] is equal to [69]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN2] <for every [1] [RN2]>",
 ],  
     },
         {
@@ -1044,6 +1341,8 @@
         "uniques":["Instantly provides [1] [R0] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [0]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1051,6 +1350,8 @@
         "uniques":["Instantly provides [1] [R1] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [1]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1058,6 +1359,8 @@
         "uniques":["Instantly provides [1] [R2] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [2]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1065,6 +1368,8 @@
         "uniques":["Instantly provides [1] [R3] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [3]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1072,6 +1377,8 @@
         "uniques":["Instantly provides [1] [R4] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [4]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1079,6 +1386,8 @@
         "uniques":["Instantly provides [1] [R5] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [5]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1086,6 +1395,8 @@
         "uniques":["Instantly provides [1] [R6] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [6]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1093,6 +1404,8 @@
         "uniques":["Instantly provides [1] [R7] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [7]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1100,6 +1413,8 @@
         "uniques":["Instantly provides [1] [R8] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [8]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1107,6 +1422,8 @@
         "uniques":["Instantly provides [1] [R9] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [9]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1114,6 +1431,8 @@
         "uniques":["Instantly provides [1] [R10] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [10]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1121,6 +1440,8 @@
         "uniques":["Instantly provides [1] [R11] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [11]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1128,6 +1449,8 @@
         "uniques":["Instantly provides [1] [R12] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [12]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1135,6 +1458,8 @@
         "uniques":["Instantly provides [1] [R13] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [13]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1142,6 +1467,8 @@
         "uniques":["Instantly provides [1] [R14] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [14]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1149,6 +1476,8 @@
         "uniques":["Instantly provides [1] [R15] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [15]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1156,6 +1485,8 @@
         "uniques":["Instantly provides [1] [R16] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [16]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1163,6 +1494,8 @@
         "uniques":["Instantly provides [1] [R17] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [17]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1170,6 +1503,8 @@
         "uniques":["Instantly provides [1] [R18] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [18]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1177,6 +1512,8 @@
         "uniques":["Instantly provides [1] [R19] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [19]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1184,6 +1521,8 @@
         "uniques":["Instantly provides [1] [R20] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [20]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1191,6 +1530,8 @@
         "uniques":["Instantly provides [1] [R21] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [21]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1198,6 +1539,8 @@
         "uniques":["Instantly provides [1] [R22] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [22]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1205,6 +1548,8 @@
         "uniques":["Instantly provides [1] [R23] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [23]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1212,6 +1557,8 @@
         "uniques":["Instantly provides [1] [R24] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [24]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1219,6 +1566,8 @@
         "uniques":["Instantly provides [1] [R25] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [25]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1226,6 +1575,8 @@
         "uniques":["Instantly provides [1] [R26] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [26]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1233,6 +1584,8 @@
         "uniques":["Instantly provides [1] [R27] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [27]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1240,6 +1593,8 @@
         "uniques":["Instantly provides [1] [R28] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [28]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1247,6 +1602,8 @@
         "uniques":["Instantly provides [1] [R29] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [29]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1254,6 +1611,8 @@
         "uniques":["Instantly provides [1] [R30] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [30]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1261,6 +1620,8 @@
         "uniques":["Instantly provides [1] [R31] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [31]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1268,6 +1629,8 @@
         "uniques":["Instantly provides [1] [R32] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [32]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1275,6 +1638,8 @@
         "uniques":["Instantly provides [1] [R33] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [33]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1282,6 +1647,8 @@
         "uniques":["Instantly provides [1] [R34] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [34]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1289,6 +1656,8 @@
         "uniques":["Instantly provides [1] [R35] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [35]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1296,6 +1665,8 @@
         "uniques":["Instantly provides [1] [R36] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [36]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1303,6 +1674,8 @@
         "uniques":["Instantly provides [1] [R37] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [37]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1310,6 +1683,8 @@
         "uniques":["Instantly provides [1] [R38] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [38]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1317,6 +1692,8 @@
         "uniques":["Instantly provides [1] [R39] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [39]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1324,6 +1701,8 @@
         "uniques":["Instantly provides [1] [R40] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [40]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1331,6 +1710,8 @@
         "uniques":["Instantly provides [1] [R41] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [41]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1338,6 +1719,8 @@
         "uniques":["Instantly provides [1] [R42] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [42]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1345,6 +1728,8 @@
         "uniques":["Instantly provides [1] [R43] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [43]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1352,6 +1737,8 @@
         "uniques":["Instantly provides [1] [R44] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [44]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1359,6 +1746,8 @@
         "uniques":["Instantly provides [1] [R45] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [45]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1366,6 +1755,8 @@
         "uniques":["Instantly provides [1] [R46] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [46]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1373,6 +1764,8 @@
         "uniques":["Instantly provides [1] [R47] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [47]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1380,6 +1773,8 @@
         "uniques":["Instantly provides [1] [R48] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [48]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1387,6 +1782,8 @@
         "uniques":["Instantly provides [1] [R49] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [49]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1394,6 +1791,8 @@
         "uniques":["Instantly provides [1] [R50] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [50]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1401,6 +1800,8 @@
         "uniques":["Instantly provides [1] [R51] <hidden from users>",
         "Only available <when above [199] [Gold]> <when number of [RN3] is equal to [51]> <hidden from users>",
         "Gain [-200] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1408,6 +1809,8 @@
         "uniques":["Instantly provides [1] [R52] <hidden from users>",
         "Only available <when above [249] [Gold]> <when number of [RN3] is equal to [52]> <hidden from users>",
         "Gain [-250] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1415,6 +1818,8 @@
         "uniques":["Instantly provides [1] [R53] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [53]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1422,6 +1827,8 @@
         "uniques":["Instantly provides [1] [R54] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [54]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1429,6 +1836,8 @@
         "uniques":["Instantly provides [1] [R55] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [55]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1436,6 +1845,8 @@
         "uniques":["Instantly provides [1] [R56] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [56]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1443,6 +1854,8 @@
         "uniques":["Instantly provides [1] [R57] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [57]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1450,6 +1863,8 @@
         "uniques":["Instantly provides [1] [R58] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [58]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1457,6 +1872,8 @@
         "uniques":["Instantly provides [1] [R59] <hidden from users>",
         "Only available <when above [299] [Gold]> <when number of [RN3] is equal to [59]> <hidden from users>",
         "Gain [-300] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1464,6 +1881,8 @@
         "uniques":["Instantly provides [1] [R60] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN3] is equal to [60]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1471,6 +1890,8 @@
         "uniques":["Instantly provides [1] [R61] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN3] is equal to [61]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1478,6 +1899,8 @@
         "uniques":["Instantly provides [1] [R62] <hidden from users>",
         "Only available <when above [849] [Gold]> <when number of [RN3] is equal to [62]> <hidden from users>",
         "Gain [-850] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1485,6 +1908,8 @@
         "uniques":["Instantly provides [1] [R63] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN3] is equal to [63]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1492,6 +1917,8 @@
         "uniques":["Instantly provides [1] [R64] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN3] is equal to [64]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1499,6 +1926,8 @@
         "uniques":["Instantly provides [1] [R65] <hidden from users>",
         "Only available <when above [599] [Gold]> <when number of [RN3] is equal to [65]> <hidden from users>",
         "Gain [-600] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1506,6 +1935,8 @@
         "uniques":["Instantly provides [1] [R66] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN3] is equal to [66]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1513,6 +1944,8 @@
         "uniques":["Instantly provides [1] [R67] <hidden from users>",
         "Only available <when above [449] [Gold]> <when number of [RN3] is equal to [67]> <hidden from users>",
         "Gain [-450] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1520,6 +1953,8 @@
         "uniques":["Instantly provides [1] [R68] <hidden from users>",
         "Only available <when above [449] [Gold]> <when number of [RN3] is equal to [68]> <hidden from users>",
         "Gain [-450] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],
     },
     {
@@ -1527,6 +1962,8 @@
         "uniques":["Instantly provides [1] [R69] <hidden from users>",
         "Only available <when above [699] [Gold]> <when number of [RN3] is equal to [69]> <hidden from users>",
         "Gain [-700] [Gold]",
+"Triggers a [Buy] event",
+"Instantly consumes [1] [RN3] <for every [1] [RN3]>",
 ],  
     },
     
@@ -1534,5 +1971,51 @@
     
     
         ]
-    }
+    },
+    
+    
+    
+    {
+        "name":"Aztecs",
+        "text":"Choose your civilised leader",
+        "choices":[
+        {
+        "text":"Montezuma I",
+        "uniques":[
+        "Provides a [Montezuma I] in your first [1] cities for free",
+        
+		    ],
+        },
+        {
+        "text":"Montezuma II",
+        "uniques":[
+        "Provides a [Montezuma II] in your first [1] cities for free",
+        
+        ]
+        },
+        ]
+    },
+    {
+        "name":"Mongolia",
+        "text":"Choose your civilised leader",
+        "choices":[
+        {
+        "text":"Genghis Khan",
+        "uniques":[
+        "Provides a [Genghis Khan] in your first [1] cities for free",
+        
+		    ],
+        },
+        {
+        "text":"Kublai Khan",
+        "uniques":[
+        "Provides a [Kublai Khan] in your first [1] cities for free",
+        
+        ]
+        },
+        ]
+    },
+    
+    
+    
 ]

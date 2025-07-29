@@ -23,6 +23,13 @@
         "Gain [500] [Gold]",
         "Provides [8] [Slot position]",
         
+        
+        
+        "Triggers a [Introduce] event <upon founding a city>",
+        
+        
+        
+        
         "Triggers a [Buy] event <when number of [Stage] is equal to [1]> <upon turn start>",
         
         

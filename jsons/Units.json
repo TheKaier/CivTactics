@@ -455,7 +455,7 @@
 		"movement": 2,
 		"strength": 16,
 		"cost": 0,
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", 
 		"Unavailable",
 		"Gain [-25] [Gold]",
 		],

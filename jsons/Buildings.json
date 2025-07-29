@@ -2461,11 +2461,40 @@
 
 
 
-
-
-
-
-
-
+{
+		"name": "Montezuma I",
+		"cost": 0,
+		"uniques": [
+        "Unavailable",
+        "[1] free [Jaguar] units appear <when number of [Stage] is equal to [2]> <upon turn start>",
+		],
+},
+{
+		"name": "Montezuma II",
+		"cost": 0,
+		"uniques": [
+        "Unavailable",
+        "[+20]% Strength <when fighting in [Forest] tiles>",
+        "[+20]% Strength <when fighting in [Jungle] tiles>",
+		],
+},
+{
+		"name": "Genghis Khan",
+		"cost": 0,
+		"uniques": [
+        "Unavailable",
+        "[1] free [Keshik] units appear <when number of [Stage] is equal to [2]> <when number of [TheAge] is equal to [3]> <upon turn start>",
+        "[2] free [Keshik] units appear <when number of [Stage] is equal to [2]> <when number of [TheAge] is equal to [4]> <upon turn start>",
+        "[3] free [Keshik] units appear <when number of [Stage] is equal to [2]> <when number of [TheAge] is equal to [5]> <upon turn start>",
+		],
+},
+{
+		"name": "Kublai Khan",
+		"cost": 0,
+		"uniques": [
+        "Unavailable",
+        "[+100]% to Flank Attack bonuses<for [Mounted] units>",
+		],
+},
 
 ]

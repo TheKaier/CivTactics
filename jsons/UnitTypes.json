@@ -5,6 +5,9 @@
         "uniques": [
 		//"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -13,6 +16,10 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
+
 		],
     },
     {
@@ -21,6 +28,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -29,6 +39,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -37,6 +50,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -45,6 +61,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -53,6 +72,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -61,6 +83,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -69,6 +94,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -77,6 +105,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -85,6 +116,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -93,6 +127,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -101,6 +138,9 @@
         "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units",
         "Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
         ]
     },
     {
@@ -109,6 +149,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -117,31 +160,46 @@
         "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep",
         "Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
         ]
     },
     {
         "name": "Bomber",
         "movementType": "Air",
         "uniques": ["Aircraft","Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",]
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",]
     },
     {
         "name": "Atomic Bomber",
         "movementType": "Air",
         "uniques": ["Aircraft","Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",]
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",]
     },
     {
         "name": "Missile",
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking", "Cannot be intercepted","Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",]
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",]
     },
     {
         "name": "Helicopter",
         "movementType": "Land",
         "uniques": ["Can pass through impassable tiles","Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",]
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work
@@ -152,6 +210,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -160,6 +221,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -168,6 +232,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
 		
     },
@@ -177,6 +244,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -185,6 +255,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -193,6 +266,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -201,6 +277,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -209,6 +288,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     },
     {
@@ -217,6 +299,9 @@
         "uniques": [
 		"Consumes [-1] [Troops]",
 "[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end>",
+"Can only attack [Military] units",
+"Can move immediately once bought",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end>",
 		],
     }
 ]
