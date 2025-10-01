@@ -1,6 +1,12 @@
 [
 
-
+{
+        "name": "The Great Battlefield",//大战场
+        "cost": 0,
+        "uniques":[
+        "Unbuildable",
+        "Will not be displayed in Civilopedia"]
+    },
 {
         "name": "2player",//几人局
         "cost": 0,
@@ -28,7 +34,7 @@
         "cost": 0,
         "uniques":[
         "Instantly provides [1] [Stage]",
-        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]>",
+        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]> <when [The Great Battlefield] Victory is disabled>",
         "Unavailable <if [AllAreGone1] is constructed by anybody> <in cities with a [AllAreGone]>",
         "Automatically built in all cities where it is buildable",
         "AllAreGone",
@@ -40,7 +46,7 @@
         "cost": 0,
         "uniques":[
         "Instantly provides [1] [Stage]",
-        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]> <if [AllAreGone1] is constructed by anybody>",
+        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]> <if [AllAreGone1] is constructed by anybody> <when [The Great Battlefield] Victory is disabled>",
         "Unavailable <if [AllAreGone2] is constructed by anybody> <in cities with a [AllAreGone]>",
         "Automatically built in all cities where it is buildable",
         "AllAreGone",
@@ -52,7 +58,7 @@
         "cost": 0,
         "uniques":[
         "Instantly provides [1] [Stage]",
-        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody>",
+        "Only available <when number of [Stage] is equal to [3]> <when below [1] [Troops]> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody> <when [The Great Battlefield] Victory is disabled>",
         "Unavailable <if [AllAreGone3] is constructed by anybody> <in cities with a [AllAreGone]>",
         "Automatically built in all cities where it is buildable",
         "AllAreGone",
@@ -64,7 +70,7 @@
         "cost": 0,
         "uniques":[
         "Instantly provides [1] [Stage] <upon turn start>",
-        "Only available <when number of [Stage] is equal to [3]> <when [2player] Victory is enabled> <if [AllAreGone1] is constructed by anybody>",
+        "Only available <when number of [Stage] is equal to [3]> <when [2player] Victory is enabled> <if [AllAreGone1] is constructed by anybody> <when [The Great Battlefield] Victory is disabled>",
         "Unavailable <in cities with a [AllAreGone]>",
         "Automatically built in all cities where it is buildable",
         "Gain [300] [Gold]",
@@ -76,7 +82,7 @@
         "cost": 0,
         "uniques":[
         "Instantly provides [1] [Stage] <upon turn start>",
-        "Only available <when number of [Stage] is equal to [3]> <when [3player] Victory is enabled> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody>",
+        "Only available <when number of [Stage] is equal to [3]> <when [3player] Victory is enabled> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody> <when [The Great Battlefield] Victory is disabled>",
         "Unavailable <in cities with a [AllAreGone]>",
         "Automatically built in all cities where it is buildable",
         "Gain [350] [Gold]",
@@ -88,7 +94,7 @@
         "cost": 0,
         "uniques":[
         "Instantly provides [1] [Stage] <upon turn start>",
-        "Only available <when number of [Stage] is equal to [3]> <when [3player] Victory is enabled> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody> <if [AllAreGone3] is constructed by anybody>",
+        "Only available <when number of [Stage] is equal to [3]> <when [3player] Victory is enabled> <if [AllAreGone1] is constructed by anybody> <if [AllAreGone2] is constructed by anybody> <if [AllAreGone3] is constructed by anybody> <when [The Great Battlefield] Victory is disabled>",
         "Unavailable <in cities with a [AllAreGone]>",
         "Automatically built in all cities where it is buildable",
         "Gain [400] [Gold]",
@@ -102,7 +108,7 @@
         "cost": 0,
         "uniques":[
         "Instantly consumes [5] [Stage]",
-        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment1] is constructed by anybody>",
+        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment1] is constructed by anybody> <when [The Great Battlefield] Victory is disabled>",
         "Automatically built in all cities where it is buildable",
         "Remove [EndThePain1] [in this city] <hidden from users>",
         "Remove [TheGreatestMoment1] [in this city] <hidden from users>",
@@ -115,7 +121,7 @@
         "cost": 0,
         "uniques":[
         "Instantly consumes [5] [Stage]",
-        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment2] is constructed by anybody>",
+        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment2] is constructed by anybody> <when [The Great Battlefield] Victory is disabled>",
         "Automatically built in all cities where it is buildable",
         "Remove [EndThePain2] [in this city] <hidden from users>",
         "Remove [TheGreatestMoment2] [in this city] <hidden from users>",
@@ -128,7 +134,7 @@
         "cost": 0,
         "uniques":[
         "Instantly consumes [5] [Stage]",
-        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment3] is constructed by anybody>",
+        "Only available <when number of [Stage] is equal to [4]> <if [TheGreatestMoment3] is constructed by anybody> <when [The Great Battlefield] Victory is disabled>",
         "Automatically built in all cities where it is buildable",
         "Remove [EndThePain3] [in this city] <hidden from users>",
         "Remove [TheGreatestMoment3] [in this city] <hidden from users>",

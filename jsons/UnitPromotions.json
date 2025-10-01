@@ -9,6 +9,15 @@
         "row": 0,
         "column": 0
     },
+    {
+	    "name": "Great General",//
+		"uniques": [
+		
+		"Doing so will consume this opportunity to choose a Promotion",
+		
+		"[This Unit] gains [1] movement",
+		]
+	},
 
 	// Ranged+Siege
 	{

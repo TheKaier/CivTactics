@@ -17,7 +17,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 		"Ensures a minimum tile yield of [+2 Food, +2 Production]",
-	
+	"Provides [1] [Slot position] <when [The Great Battlefield] Victory is enabled>",
             "Unpillagable", "Irremovable", "Unbuildable"],
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
@@ -30,5 +30,17 @@
 		"uniques": ["Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	},
-
+	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		//"techRequired": "The Wheel",
+		"uniques": [
+		"Can be built outside your borders", 
+		//"Costs [1] [Gold] per turn"
+		],
+		"shortcutKey": "R",
+        "civilopediaText": [
+        ]
+	},
 ]

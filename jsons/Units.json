@@ -8,7 +8,8 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Unavailable",
-		"Gain [50] [Gold]",
+		"Gain [50] [Gold] <when [The Great Battlefield] Victory is disabled>",
+		"Can build [Land] improvements on tiles <when [The Great Battlefield] Victory is enabled>",
 		],
 		"cost": 0,
 	},
@@ -29,7 +30,9 @@
 		"strength": 5,
 		"cost": 0,
 		//"obsoleteTech": "Scientific Theory",
-		"uniques": ["Unavailable"],
+		"uniques": [
+		"Unavailable",
+		],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
@@ -457,7 +460,7 @@
 		"cost": 0,
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", 
 		"Unavailable",
-		"Gain [-25] [Gold]",
+		"Gain [-25] [Gold] <when [The Great Battlefield] Victory is disabled>",
 		],
 		"attackSound": "metalhit"
 		//"Requires [Mercenary Army]" in BNW
@@ -551,8 +554,7 @@
 		"strength": 15,
 		"rangedStrength": 16,
 		"cost": 0,
-		"uniques": ["Can move after attacking","No defensive terrain bonus",
-		"Unavailable"
+		"uniques": ["Unavailable",
 		],
 		"promotions": ["Quick Study"],
 		"attackSound": "arrow"
@@ -791,6 +793,12 @@
 		"unitType": "Civilian",
 		"uniques": [
             "[+15]% Strength bonus for [Military] units within [1] tiles",
+            "[All] units gain the [Heal Instantly] promotion <for all movement> <[1] times> <after which this unit is consumed>",
+            "[All] units gain the [Great General] promotion <for all movement> <[1] times> <after which this unit is consumed>",
+            
+            
+            
+            
 			"Unbuildable", "Uncapturable"],
 		"movement": 2
 	},

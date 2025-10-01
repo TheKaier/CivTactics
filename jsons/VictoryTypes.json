@@ -27,7 +27,13 @@
         "Build [4player]"
         ]
     },
-    
+    {
+        "name":"The Great Battlefield",
+        "hiddenInVictoryScreen":true,
+        "milestones":[
+        "Build [The Great Battlefield]"
+        ]
+    },
     
     
     
