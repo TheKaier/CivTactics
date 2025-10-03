@@ -15,7 +15,7 @@
 		
 		"Doing so will consume this opportunity to choose a Promotion",
 		
-		"[This Unit] gains [1] movement",
+		"[This Unit] gains [2] movement",
 		]
 	},
 	{
@@ -52,8 +52,8 @@
 	    "name": "[Do Alternately]",//
 		"uniques": [
 		
-		
-		
+		"[This Unit] gains [2] movement <upon defeating a [Wounded] unit>",
+		"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 		"Ignores Zone of Control",
 		]
 	},

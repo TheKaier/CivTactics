@@ -9,7 +9,7 @@
                 "starred":true,
                 "color":"#FFFF00"
             },
-            { 
+            /*{ 
                 "text": "[Update log] v5.7.22",
                 "size":30
             },
@@ -24,7 +24,7 @@
             { 
                 "text": "1. Units cannot attack cities to prevent experience farming.  \n\n2. City Bombard cannot be used to prevent experience farming.  \n\n3. Units stationed in city centers will be destroyed upon ending the turn, preventing turn cycle blockage.  \n\n4. Shop actions can be repeated multiple times.  \n\n5. All purchased units can move in the same turn.  \n\n6. Added new civilizations: [Aztecs], [Mongolia]."
                 "size":20
-            },
+            },*/
             
             
             
@@ -42,8 +42,30 @@
     {
         "name":"-Module play manual",
         "civilopediaText":[
+        { 
+                "text": "The Great Battlefield",
+                "size":40
+            },
         {
-                "text": "The mod content is divided into 5 phases:  Initial Phase, Purchase Phase, Combat Phase, Ranking Phase, and Settlement Phase."
+                "text": "The Great Battlefield is very simple, you start with a small army, you can use immigrants to build cities, workers to build roads, Plan your defenses. You will gain a unit for every 10 turns, depending on the number of cities you have."
+                "size":25,
+                "starred":true,
+                "color":"#FFFF00"
+            },
+        
+        
+        
+        
+        
+        
+        
+        
+        { 
+                "text": "Pub Chess",
+                "size":40
+            },
+        {
+                "text": "Pub Chess content is divided into 5 phases:  Initial Phase, Purchase Phase, Combat Phase, Ranking Phase, and Settlement Phase."
                 "size":25,
                 "starred":true,
                 "color":"#FFFF00"

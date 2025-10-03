@@ -7,7 +7,7 @@
 		"name": "Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Unavailable",
+		"uniques": ["Unbuildable",
 		"Gain [50] [Gold] <when [The Great Battlefield] Victory is disabled>",
 		"Can build [Land] improvements on tiles <when [The Great Battlefield] Victory is enabled>",
 		],
@@ -18,7 +18,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 0,
-		"uniques": ["Unavailable",
+		"uniques": ["Unbuildable",
 		"Founds a new city <by consuming this unit>",
 		],
 		//"hurryCostModifier": 20
@@ -31,7 +31,7 @@
 		"cost": 0,
 		//"obsoleteTech": "Scientific Theory",
 		"uniques": [
-		"Unavailable",
+		"Unbuildable",
 		],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
@@ -44,7 +44,15 @@
 		"cost": 0,
 		//"obsoleteTech": "Metal Casting",
 		//"upgradesTo": "Swordsman",
-		"uniques": ["Unavailable"],
+		"uniques": [
+		"Unbuildable",
+		
+		"Can upgrade to [Maori Warrior] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Jaguar] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Brute] <when [The Great Battlefield] Victory is enabled>",
+		
+		
+		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
@@ -58,7 +66,11 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": [
+		
+		"Unbuildable"
+		
+		],
 		"promotions": ["Haka War Dance"],
 		//"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -71,7 +83,7 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["[Jaguar] ability","Woodsman"],
 		//"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -84,7 +96,7 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		//"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
@@ -95,7 +107,15 @@
 		"strength": 5,
 		"rangedStrength": 7,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": [
+		
+		"Unbuildable"
+		
+		"Can upgrade to [Bowman] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Slinger] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Atlatlist] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Skirmisher] <when [The Great Battlefield] Victory is enabled>",
+		],
 		"attackSound": "arrow"
 	},
 	{
@@ -105,7 +125,7 @@
 		"strength": 7,
 		"rangedStrength": 9,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "arrow"
 	},
 	{
@@ -117,7 +137,7 @@
 		"strength": 4,
 		"rangedStrength": 7,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["Slinger Withdraw"],
 		"attackSound": "arrow"
 	},
@@ -128,7 +148,7 @@
 		"strength": 5,
 		"rangedStrength": 7,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "arrow"
 	},
 	{
@@ -140,7 +160,7 @@
 		"strength": 4,
 		"rangedStrength": 7,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "arrow"
 	},
 	{
@@ -149,7 +169,7 @@
 		"movement": 4,
 		"cost": 0,
 		//"requiredTech": "Sailing",
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 	},
 	{
 		"name": "Trireme",
@@ -157,7 +177,17 @@
 		"movement": 4,
 		"strength": 10,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": [
+		"Unbuildable"
+		
+		
+		"Can upgrade to [Galley] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Dromon] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Galley] <when [The Great Battlefield] Victory is enabled>",
+		
+		
+		
+		],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -168,7 +198,7 @@
 		"movement": 4,
 		"strength": 13,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -180,7 +210,7 @@
 		"strength": 8,
 		"rangedStrength": 10,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "arrow"
 	},
 	{
@@ -190,7 +220,7 @@
 		"movement": 3,
 		"strength": 7,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "nonmetalhit"
 		//Barbarian unique naval unit, weaker and slower than Trireme.
 	},
@@ -201,7 +231,14 @@
 		"strength": 6,
 		"rangedStrength": 10,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": [
+		"Unbuildable",
+		
+		"Can upgrade to [War Chariot] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Horse Archer] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [War Elephant] <when [The Great Battlefield] Victory is enabled>",
+		
+		],
 		"attackSound": "arrow"
 	},
 	{
@@ -213,7 +250,7 @@
 		"strength": 6,
 		"rangedStrength": 10,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "arrow"
 	},
 	{
@@ -225,7 +262,7 @@
 		"strength": 7,
 		"rangedStrength": 10,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
@@ -241,7 +278,7 @@
 		//"requiredTech": "The Wheel",
 		//"upgradesTo": "Knight",
 		//"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus","Unavailable"],
+		"uniques": ["No defensive terrain bonus","Unbuildable"],
 		"attackSound": "elephant"
 	},
 	{
@@ -250,7 +287,15 @@
 		"movement": 2,
 		"strength": 11,
 		"cost": 0,
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Unavailable"],
+		"uniques": [
+		"[+50]% Strength <vs [Mounted] units>","Unbuildable",
+		
+		"Can upgrade to [Hoplite] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Persian Immortal] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Battering Ram] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Pictish Warrior] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Marauder] <when [The Great Battlefield] Victory is enabled>",
+		],
 		"attackSound": "metalhit"
 	},
 	{
@@ -261,7 +306,7 @@
 		"movement": 2,
 		"strength": 13,
 		"cost": 0,
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Unavailable"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Unbuildable"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -272,7 +317,7 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 0,
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Unavailable"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Unbuildable"],
 		"promotions":["[Persian Immortal] ability"],
 		"attackSound": "metalhit"
 	},
@@ -286,7 +331,7 @@
 		"cost": 0,
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
 		"[-1] Sight", "Can only attack [City] units",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
@@ -299,7 +344,7 @@
 		"movement": 2,
 		"strength": 11,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["Pictish Courage"],
 		"attackSound": "metalhit"
 	},
@@ -311,7 +356,7 @@
 		"movement": 2,
 		"strength": 10,
 		"cost": 0,
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Unavailable"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Unbuildable"],
 		"attackSound": "metalhit"
 	},
 
@@ -322,7 +367,14 @@
 		"movement": 4,
 		"strength": 12,
 		"cost": 0,
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Unavailable"],
+		"uniques": [
+		"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Unbuildable",
+		
+		"Can upgrade to [Companion Cavalry] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [African Forest Elephant] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Cataphract] <when [The Great Battlefield] Victory is enabled>",
+		
+		],
 		//"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -334,7 +386,7 @@
 		"movement": 5,
 		"strength": 14,
 		"cost": 0,
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>","Unavailable"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>","Unbuildable"],
 		//"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -348,7 +400,7 @@
 		"cost": 0,
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
-			"Unavailable"
+			"Unbuildable"
 			],
 		//"hurryCostModifier": 20,
 		"attackSound": "elephant"
@@ -362,7 +414,7 @@
 		"strength": 15,
 		"cost": 0,
 		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>",
-		"Unavailable"
+		"Unbuildable"
 		],
 		//"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -374,9 +426,15 @@
 		"strength": 7,
 		"rangedStrength": 8,
 		"cost": 0,
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+		"uniques": [
+		"[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit",
-			"Unavailable"
+			"Unbuildable",
+			
+			
+			
+			"Can upgrade to [Ballista] <when [The Great Battlefield] Victory is enabled>",
+			
 			],
 		//"hurryCostModifier": 20,
 		"attackSound": "throw"
@@ -392,7 +450,7 @@
 		"cost": 0,
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight",
-			"Unavailable"
+			"Unbuildable"
 			],
 		//"hurryCostModifier": 20,
 		"attackSound": "throw"
@@ -404,7 +462,13 @@
 		"strength": 7,
 		"rangedStrength": 11,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": [
+		"Unbuildable",
+		
+		
+		
+		
+		],
 		"attackSound": "arrow"
 	},
 	{
@@ -413,7 +477,15 @@
 		"movement": 2,
 		"strength": 14,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": [
+		"Unbuildable",
+		
+		
+		"Can upgrade to [Legion] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Mohawk Warrior] <when [The Great Battlefield] Victory is enabled>",
+		
+		
+		],
 		"attackSound": "metalhit"
 	},
 	{
@@ -424,7 +496,7 @@
 		"movement": 2,
 		"strength": 17,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -435,7 +507,7 @@
 		"movement": 2,
 		"strength": 14,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["[Mohawk Warrior] ability"],
 		"attackSound": "metalhit"
 	},
@@ -447,8 +519,12 @@
 		"movement": 2,
 		"strength": 16,
 		"cost": 0,
-		"uniques": ["[+50]% Strength <vs [Mounted] units>",
-		"Unavailable"
+		"uniques": [
+		"[+50]% Strength <vs [Mounted] units>",
+		"Unbuildable",
+		
+		
+		"Can upgrade to [Landsknecht] <when [The Great Battlefield] Victory is enabled>",
 		],
 		"attackSound": "metalhit"
 	},
@@ -459,7 +535,7 @@
 		"strength": 16,
 		"cost": 0,
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", 
-		"Unavailable",
+		"Unbuildable",
 		"Gain [-25] [Gold] <when [The Great Battlefield] Victory is disabled>",
 		],
 		"attackSound": "metalhit"
@@ -472,7 +548,7 @@
 		"strength": 16,
 		"rangedStrength": 17,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "arrow"
 	},
 	{
@@ -481,8 +557,18 @@
 		"movement": 4,
 		"strength": 20,
 		"cost": 0,
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit",
-		"Unavailable"
+		"uniques": [
+		"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit",
+		"Unbuildable",
+		
+		
+		"Can upgrade to [Camel Archer] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Conquistador] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Naresuan's Elephant] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Mandekalu Cavalry] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Keshik] <when [The Great Battlefield] Victory is enabled>",
+		
+		
 		],
 		"attackSound": "horse"
 	},
@@ -496,7 +582,7 @@
 		"rangedStrength": 21,
 		"cost": 0,
 		"uniques": ["Can move after attacking","No defensive terrain bonus",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"attackSound": "arrow"
 		//Camel Archer should have no penalty attacking cities
@@ -510,7 +596,7 @@
 		"strength": 20,
 		"cost": 0,
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"promotions": ["[Conquistador] ability"],
 		"attackSound": "horse"
@@ -526,7 +612,7 @@
 		"strength": 25,
 		"cost": 0,
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>","[-33]% Strength <vs cities> <when attacking>",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"attackSound": "elephant"
 	},
@@ -540,7 +626,7 @@
 		"cost": 0,
 		"uniques": ["Can move after attacking","No defensive terrain bonus",
 		
-		"Unavailable"
+		"Unbuildable"
 		],
 		"attackSound": "horse"
 	},
@@ -554,7 +640,7 @@
 		"strength": 15,
 		"rangedStrength": 16,
 		"cost": 0,
-		"uniques": ["Unavailable",
+		"uniques": ["Unbuildable",
 		],
 		"promotions": ["Quick Study"],
 		"attackSound": "arrow"
@@ -567,7 +653,12 @@
 		"strength": 13,
 		"rangedStrength": 18,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable",
+		
+		
+		"Can upgrade to [Chu-Ko-Nu] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Longbowman] <when [The Great Battlefield] Victory is enabled>",
+		],
 		"attackSound": "crossbow"
 	},
 	{
@@ -579,7 +670,7 @@
 		"rangedStrength": 14,
 		//"replaces": "Crossbowman",
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["[Chu-Ko-Nu] ability"],
 		"attackSound": "crossbow"
 	},
@@ -593,7 +684,7 @@
 		//"replaces": "Crossbowman",
 		//"uniqueTo": "England",
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["Extended Range"],
 		"attackSound": "arrow"
 	},
@@ -604,8 +695,13 @@
 		"strength": 12,
 		"rangedStrength": 14,
 		"cost": 0,
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit",
-		"Unavailable"
+		"uniques": [
+		"[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit",
+		"Unbuildable",
+		
+		
+		
+		"Can upgrade to [Hwach'a] <when [The Great Battlefield] Victory is enabled>",
 		],
 		"attackSound": "throw"
 	},
@@ -622,7 +718,7 @@
 		//"obsoleteTech": "Chemistry",
 		//"upgradesTo": "Cannon",
 		"uniques": ["No defensive terrain bonus","Must set up to ranged attack",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"attackSound": "throw"
 	},
@@ -632,7 +728,13 @@
 		"movement": 2,
 		"strength": 21,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable",
+		
+		
+		
+		"Can upgrade to [Samurai] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Berserker] <when [The Great Battlefield] Victory is enabled>",
+		],
 		"attackSound": "metalhit"
 	},
 	{
@@ -644,7 +746,7 @@
 		"strength": 21,
 		"cost": 0,
 		"promotions": ["Shock I"],
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -655,7 +757,7 @@
 		"movement": 3,
 		"strength": 21,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["Amphibious"],
 		//"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -670,7 +772,13 @@
 		"movement": 2,
 		"strength": 24,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable",
+		
+		"Can upgrade to [Musketeer] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Janissary] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Minuteman] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Tercio] <when [The Great Battlefield] Victory is enabled>",
+		],
 		"attackSound": "shot"
 	},
 	{
@@ -681,7 +789,7 @@
 		"movement": 2,
 		"strength": 28,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"attackSound": "shot"
 	},
 	{
@@ -692,7 +800,7 @@
 		"movement": 2,
 		"strength": 24,
 		"cost": 0,
-		"uniques": ["Unavailable"],
+		"uniques": ["Unbuildable"],
 		"promotions": ["[Janissary] ability"],
 		"attackSound": "shot"
 	},
@@ -705,7 +813,7 @@
 		"strength": 24,
 		"cost": 0,
 		"uniques": ["Ignores terrain cost",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
@@ -719,7 +827,7 @@
 		"strength": 26,
 		"cost": 0,
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"attackSound": "shot"
 	},
@@ -729,8 +837,15 @@
 		"movement": 4,
 		"strength": 25,
 		"cost": 0,
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit",
-		"Unavailable"
+		"uniques": [
+		"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit",
+		"Unbuildable",
+		
+		
+		"Can upgrade to [Sipahi] <when [The Great Battlefield] Victory is enabled>",
+		"Can upgrade to [Hakkapeliitta] <when [The Great Battlefield] Victory is enabled>",
+		
+		
 		],
 		"promotions": ["Formation I"],
 		//"upgradesTo": "Anti-Tank Gun",
@@ -748,7 +863,7 @@
 		//"requiredTech": "Metallurgy",
 		//"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
-		"Unavailable"
+		"Unbuildable"
 			"[+1] Sight"],
 		"promotions": ["[Sipahi] ability","Formation I"],
 		//"upgradesTo": "Anti-Tank Gun",
@@ -766,7 +881,7 @@
 		//"requiredTech": "Metallurgy",
 		//"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"promotions": ["[Hakkapeliitta] ability","Formation I"],
 		//"upgradesTo": "Anti-Tank Gun",
@@ -784,7 +899,7 @@
 		//"upgradesTo": "Artillery",
 		//"obsoleteTech": "Dynamite",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit",
-		"Unavailable"
+		"Unbuildable"
 		],
 		"attackSound": "cannon"
 	},
