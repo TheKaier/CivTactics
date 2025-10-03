@@ -18,7 +18,71 @@
 		"[This Unit] gains [1] movement",
 		]
 	},
+	{
+	    "name": "Ambush",//
+		"uniques": [
+		
+		"Doing so will consume this opportunity to choose a Promotion",
+		"[This Unit] gains the [[Ambush]] status for [2] turn(s)",
+		//"Invisible to non-adjacent units",
+		]
+	},
+	{
+	    "name": "[Ambush]",//
+		"uniques": [
+		
+		
+		
+		"Invisible to non-adjacent units",
+		]
+	},
+	
+	
+	
+	{
+	    "name": "Do Alternately",//
+		"uniques": [
+		
+		"Doing so will consume this opportunity to choose a Promotion",
+		"[This Unit] gains the [[Do Alternately]] status for [2] turn(s)",
+		//"Ignores Zone of Control",
+		]
+	},
+	{
+	    "name": "[Do Alternately]",//
+		"uniques": [
+		
+		
+		
+		"Ignores Zone of Control",
+		]
+	},
+	
+	
+	
+	
+	{
+	    "name": "Retreat",//
+		"uniques": [
+		"Doing so will consume this opportunity to choose a Promotion",
+		"[This Unit] gains the [[Retreat]] status for [2] turn(s)",
+		//"Withdraws before melee combat",
+		]
+	},
 
+            {
+	    "name": "[Retreat]",//
+		"uniques": [
+		
+		
+		"Withdraws before melee combat",
+		]
+	},
+            
+            
+            
+            
+            
 	// Ranged+Siege
 	{
 		"name": "Accuracy I",

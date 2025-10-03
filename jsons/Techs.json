@@ -20,8 +20,67 @@
 "quote":"",
 "uniques":[
 "Starting tech",
+"Roads connect tiles across rivers",
+"Enables Defensive Pacts",
+"Enables Open Borders agreements",
+
+
 ]
 },
+
+
+
+
+
+{
+"name":"Tech 1",//
+"row":3,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+{
+"name":"Tech 2",//
+"row":4,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+{
+"name":"Tech 3",//
+"row":5,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+{
+"name":"Tech 4",//
+"row":6,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+{
+"name":"Tech 5",//
+"row":7,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+
+
+
+
+
+
+
+
+
 ]
     },
 

@@ -797,6 +797,13 @@
             "[All] units gain the [Great General] promotion <for all movement> <[1] times> <after which this unit is consumed>",
             
             
+            /*"[All] gains the [Ambush] status for [2] turn(s) <for all movement> <[1] times> <after which this unit is consumed>",
+            "[All] gains the [Do Alternately] status for [2] turn(s) <for all movement> <[1] times> <after which this unit is consumed>",
+            "[All] gains the [Retreat] status for [2] turn(s) <for all movement> <[1] times> <after which this unit is consumed>",*/
+            
+            "[All] units gain the [Ambush] promotion <for all movement> <[1] times> <after which this unit is consumed>",
+            "[All] units gain the [Do Alternately] promotion <for all movement> <[1] times> <after which this unit is consumed>",
+            "[All] units gain the [Retreat] promotion <for all movement> <[1] times> <after which this unit is consumed>",
             
             
 			"Unbuildable", "Uncapturable"],

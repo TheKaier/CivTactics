@@ -86,17 +86,17 @@
         
         
         
-        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [2]> <upon turn start>",
+        
         
         //The Great Battlefield
         "[2] free [Worker] units appear <when [The Great Battlefield] Victory is enabled>",
         "[2] free [Settler] units appear <when [The Great Battlefield] Victory is enabled>",
         "[2] free [Scout] units appear <when [The Great Battlefield] Victory is enabled>",
-        "[2] free [Warrior] units appear <when [The Great Battlefield] Victory is enabled>",
-        "[2] free [Archer] units appear <when [The Great Battlefield] Victory is enabled>",
+        "[3] free [Warrior] units appear <when [The Great Battlefield] Victory is enabled>",
+        "[3] free [Archer] units appear <when [The Great Battlefield] Victory is enabled>",
         
         
-        
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled>",
         
         
         
@@ -106,14 +106,18 @@
         "[1] free [Archer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [10]> <upon turn start>",
         "[1] free [Spearman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [10]> <upon turn start>",
         "[1] free [Warrior] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [10]> <upon turn start>",
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [10]> <upon turn start>",
+        
+        
         
         
         "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [20]> <upon turn start>",
         "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [20]> <upon turn start>",
+        "[1] free [Archer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [20]> <upon turn start>",
         "[1] free [Spearman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [20]> <upon turn start>",
         "[1] free [Chariot Archer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [20]> <upon turn start>",
         "[1] free [Horseman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [20]> <upon turn start>",
-        
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [20]> <upon turn start>",
         
         
         "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [30]> <upon turn start>",
@@ -122,7 +126,11 @@
         "[1] free [Spearman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [30]> <upon turn start>",
         "[1] free [Horseman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [30]> <upon turn start>",
         "[1] free [Swordsman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [30]> <upon turn start>",
+        "[1] free [Composite Bowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [30]> <upon turn start>",
         "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [30]> <upon turn start>",
+        
+        
+        
         
         "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [40]> <upon turn start>",
         "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [40]> <upon turn start>",
@@ -130,7 +138,8 @@
         "[1] free [Composite Bowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [40]> <upon turn start>",
         "[1] free [Horseman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [40]> <upon turn start>",
         "[1] free [Swordsman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [40]> <upon turn start>",
-        
+        "[1] free [Catapult] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [40]> <upon turn start>",
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [40]> <upon turn start>",
         
         
         
@@ -139,6 +148,8 @@
         "[1] free [Composite Bowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [50]> <upon turn start>",
         "[1] free [Pikeman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [50]> <upon turn start>",
         "[1] free [Swordsman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [50]> <upon turn start>",
+        "[1] free [Chariot Archer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [50]> <upon turn start>",
+        "[1] free [Catapult] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [50]> <upon turn start>",
         "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [50]> <upon turn start>",
         
         
@@ -147,16 +158,17 @@
         "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [60]> <upon turn start>",
         "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [60]> <upon turn start>",
         "[1] free [Pikeman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [60]> <upon turn start>",
-        "[1] free [Chariot Archer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [60]> <upon turn start>",
+        "[1] free [Catapult] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [60]> <upon turn start>",
         "[1] free [Knight] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [60]> <upon turn start>",
-        
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [60]> <upon turn start>",
         
         "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [70]> <upon turn start>",
         "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [70]> <upon turn start>",
-        "[1] free [Longbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [70]> <upon turn start>",
+        "[1] free [Longswordsman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [70]> <upon turn start>",
         "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [70]> <upon turn start>",
         "[1] free [Knight] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [70]> <upon turn start>",
         "[1] free [Pikeman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [70]> <upon turn start>",
+        "[1] free [Trebuchet] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [70]> <upon turn start>",
         "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [70]> <upon turn start>",
         
         
@@ -164,28 +176,86 @@
         
         "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [80]> <upon turn start>",
         "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [80]> <upon turn start>",
-        "[1] free [Longbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [80]> <upon turn start>",
+        "[1] free [Longswordsman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [80]> <upon turn start>",
         "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [80]> <upon turn start>",
         "[1] free [Knight] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [80]> <upon turn start>",
         "[1] free [Pikeman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [80]> <upon turn start>",
+        "[1] free [Trebuchet] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [80]> <upon turn start>",
         "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [80]> <upon turn start>",
+        
+        
         
         "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [90]> <upon turn start>",
         "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [90]> <upon turn start>",
-        "[1] free [Longbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [90]> <upon turn start>",
+        "[1] free [Longswordsman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [90]> <upon turn start>",
         "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [90]> <upon turn start>",
         "[1] free [Knight] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [90]> <upon turn start>",
         "[1] free [Pikeman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [90]> <upon turn start>",
+        "[1] free [Trebuchet] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [90]> <upon turn start>",
         "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [90]> <upon turn start>",
         
         
         "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [100]> <upon turn start>",
         "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [100]> <upon turn start>",
-        "[1] free [Longbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [100]> <upon turn start>",
+        "[1] free [Musketman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [100]> <upon turn start>",
         "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [100]> <upon turn start>",
-        "[1] free [Knight] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [100]> <upon turn start>",
-        "[1] free [Pikeman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [100]> <upon turn start>",
+        "[1] free [Lancer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [100]> <upon turn start>",
+        "[1] free [Cannon] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [100]> <upon turn start>",
         "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [100]> <upon turn start>",
+        
+        
+        
+        "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [110]> <upon turn start>",
+        "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [110]> <upon turn start>",
+        "[1] free [Musketman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [110]> <upon turn start>",
+        "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [110]> <upon turn start>",
+        "[1] free [Lancer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [110]> <upon turn start>",
+        "[1] free [Cannon] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [110]> <upon turn start>",
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [110]> <upon turn start>",
+        
+        
+        
+        
+        
+        "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [120]> <upon turn start>",
+        "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [120]> <upon turn start>",
+        "[1] free [Musketman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [120]> <upon turn start>",
+        "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [120]> <upon turn start>",
+        "[1] free [Lancer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [120]> <upon turn start>",
+        "[1] free [Cannon] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [120]> <upon turn start>",
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [120]> <upon turn start>",
+        
+        
+        
+        "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [130]> <upon turn start>",
+        "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [130]> <upon turn start>",
+        "[1] free [Musketman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [130]> <upon turn start>",
+        "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [130]> <upon turn start>",
+        "[1] free [Lancer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [130]> <upon turn start>",
+        "[1] free [Cannon] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [130]> <upon turn start>",
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [130]> <upon turn start>",
+        
+        
+        
+        
+        "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [140]> <upon turn start>",
+        "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [140]> <upon turn start>",
+        "[1] free [Musketman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [140]> <upon turn start>",
+        "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [140]> <upon turn start>",
+        "[1] free [Lancer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [140]> <upon turn start>",
+        "[1] free [Cannon] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [140]> <upon turn start>",
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [140]> <upon turn start>",
+        
+        
+        
+        
+        "[1] free [Worker] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [150]> <upon turn start>",
+        "[1] free [Settler] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [150]> <upon turn start>",
+        "[1] free [Musketman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [150]> <upon turn start>",
+        "[1] free [Crossbowman] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [150]> <upon turn start>",
+        "[1] free [Lancer] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [150]> <upon turn start>",
+        "[1] free [Cannon] units appear <when [The Great Battlefield] Victory is enabled> <for every [1] [Slot position]> <when number of [turns] is equal to [150]> <upon turn start>",
+        "[1] free [Great General] units appear <when [The Great Battlefield] Victory is enabled> <when number of [turns] is equal to [150]> <upon turn start>",
             ]
           
 }
