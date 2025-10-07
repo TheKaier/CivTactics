@@ -165,8 +165,8 @@
         "innerColor": [134,238,214],
 		"uniqueName": "Woodsman",
 		"uniques": [
-		"[Military] units gain the [Woodsman] promotion <when [The Great Battlefield] Victory is disabled>",
-		"Triggers a [Aztecs] event <upon founding a city> <when [The Great Battlefield] Victory is disabled>",
+		"[Military] units gain the [Woodsman] promotion <when [Pub Chess] Victory is enabled>",
+		"Triggers a [Aztecs] event <upon founding a city> <when [Pub Chess] Victory is enabled>",
 		],
 		"civilopediaText":[
         {"text": "Montezuma I","link": "Building/Montezuma I"},
@@ -196,9 +196,9 @@
 		"innerColor": [255,120,0],
 		"uniqueName": "Mongol Terror",
 		"uniques": [
-		"[+15]% Strength <for [Mounted] units> <when [The Great Battlefield] Victory is disabled>",
-		"[+1] Movement <for [Mounted] units> <when [The Great Battlefield] Victory is disabled>",
-		"Triggers a [Mongolia] event <upon founding a city> <when [The Great Battlefield] Victory is disabled>",
+		"[+15]% Strength <for [Mounted] units> <when [Pub Chess] Victory is enabled>",
+		"[+1] Movement <for [Mounted] units> <when [Pub Chess] Victory is enabled>",
+		"Triggers a [Mongolia] event <upon founding a city> <when [Pub Chess] Victory is enabled>",
 		],
 		"civilopediaText":[
         {"text": "Genghis Khan","link": "Building/Genghis Khan"},

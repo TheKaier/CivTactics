@@ -8,7 +8,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Unbuildable",
-		"Gain [50] [Gold] <when [The Great Battlefield] Victory is disabled>",
+		"Gain [50] [Gold] <when [Pub Chess] Victory is enabled>",
 		"Can build [Land] improvements on tiles <when [The Great Battlefield] Victory is enabled>",
 		],
 		"cost": 0,
@@ -233,6 +233,7 @@
 		"cost": 0,
 		"uniques": [
 		"Unbuildable",
+		"No defensive terrain bonus", "Rough terrain penalty",
 		
 		"Can upgrade to [War Chariot] <when [The Great Battlefield] Victory is enabled>",
 		"Can upgrade to [Horse Archer] <when [The Great Battlefield] Victory is enabled>",
@@ -250,7 +251,11 @@
 		"strength": 6,
 		"rangedStrength": 10,
 		"cost": 0,
-		"uniques": ["Unbuildable"],
+		"uniques": ["Unbuildable",
+		
+		"No defensive terrain bonus", "Rough terrain penalty",
+		
+		],
 		"attackSound": "arrow"
 	},
 	{
@@ -262,7 +267,11 @@
 		"strength": 7,
 		"rangedStrength": 10,
 		"cost": 0,
-		"uniques": ["Unbuildable"],
+		"uniques": ["Unbuildable",
+		
+		"No defensive terrain bonus",
+		
+		],
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
@@ -536,7 +545,7 @@
 		"cost": 0,
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", 
 		"Unbuildable",
-		"Gain [-25] [Gold] <when [The Great Battlefield] Victory is disabled>",
+		"Gain [-25] [Gold] <when [Pub Chess] Victory is enabled>",
 		],
 		"attackSound": "metalhit"
 		//"Requires [Mercenary Army]" in BNW
@@ -907,18 +916,16 @@
 		"name": "Great General",
 		"unitType": "Civilian",
 		"uniques": [
-            "[+15]% Strength bonus for [Military] units within [1] tiles",
-            "[All] units gain the [Heal Instantly] promotion <for all movement> <[1] times> <after which this unit is consumed>",
-            "[All] units gain the [Great General] promotion <for all movement> <[1] times> <after which this unit is consumed>",
+		//酒馆战棋
+            "[+15]% Strength bonus for [Military] units within [1] tiles <when [Pub Chess] Victory is enabled>",
             
-            
-            /*"[All] gains the [Ambush] status for [2] turn(s) <for all movement> <[1] times> <after which this unit is consumed>",
-            "[All] gains the [Do Alternately] status for [2] turn(s) <for all movement> <[1] times> <after which this unit is consumed>",
-            "[All] gains the [Retreat] status for [2] turn(s) <for all movement> <[1] times> <after which this unit is consumed>",*/
-            
-            "[All] units gain the [Ambush] promotion <for all movement> <[1] times> <after which this unit is consumed>",
-            "[All] units gain the [Do Alternately] promotion <for all movement> <[1] times> <after which this unit is consumed>",
-            "[All] units gain the [Retreat] promotion <for all movement> <[1] times> <after which this unit is consumed>",
+            //大战场
+            "[+15]% Strength bonus for [Military] units within [2] tiles <when [The Great Battlefield] Victory is enabled>",
+            "[All] units gain the [Heal Instantly] promotion <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
+            "[All] units gain the [Quick March] promotion <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
+            "[All] units gain the [Ambush] promotion <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
+            "[All] units gain the [Do Alternately] promotion <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
+            "[All] units gain the [Retreat] promotion <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
             
             
 			"Unbuildable", "Uncapturable"],

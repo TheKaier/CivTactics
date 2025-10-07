@@ -34,7 +34,13 @@
         "Build [The Great Battlefield]"
         ]
     },
-    
+    {
+        "name":"Pub Chess",
+        "hiddenInVictoryScreen":true,
+        "milestones":[
+        "Build [Pub Chess]"
+        ]
+    },
     
     
     

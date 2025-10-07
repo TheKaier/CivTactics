@@ -4,10 +4,10 @@
         "movementType": "Land"
         "uniques": [
 		//"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -15,10 +15,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 
 		],
     },
@@ -27,10 +27,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -38,10 +38,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -49,10 +49,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -60,10 +60,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -71,10 +71,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -82,10 +82,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -93,10 +93,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -104,10 +104,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -115,10 +115,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -126,10 +126,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -137,10 +137,10 @@
         "movementType": "Water",
         "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units",
         "Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
         ]
     },
     {
@@ -148,10 +148,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -159,47 +159,47 @@
         "movementType": "Air",
         "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep",
         "Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
         ]
     },
     {
         "name": "Bomber",
         "movementType": "Air",
         "uniques": ["Aircraft","Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",]
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",]
     },
     {
         "name": "Atomic Bomber",
         "movementType": "Air",
         "uniques": ["Aircraft","Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",]
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",]
     },
     {
         "name": "Missile",
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking", "Cannot be intercepted","Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",]
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",]
     },
     {
         "name": "Helicopter",
         "movementType": "Land",
         "uniques": ["Can pass through impassable tiles","Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",]
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work
@@ -209,10 +209,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -220,10 +220,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -231,10 +231,10 @@
         "movementType": "Land"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
 		
     },
@@ -243,10 +243,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -254,10 +254,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -265,10 +265,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -276,10 +276,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -287,10 +287,10 @@
         "movementType": "Water"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     },
     {
@@ -298,10 +298,10 @@
         "movementType": "Air"
         "uniques": [
 		"Consumes [-1] [Troops]",
-"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
-"Can only attack [Military] units <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <when number of [Stage] is equal to [0]> <upon turn end> <when [Pub Chess] Victory is enabled>",
+"Can only attack [Military] units <when [Pub Chess] Victory is enabled>",
 "Can move immediately once bought",
-"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [The Great Battlefield] Victory is disabled>",
+"[This Unit] takes [100] damage <in [City center] tiles> <upon turn end> <when [Pub Chess] Victory is enabled>",
 		],
     }
 ]

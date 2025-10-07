@@ -21,7 +21,7 @@
          {
         "text":"Enter the next era",//进入下一个时代
         "uniques":[
-        "Only available <when above [299] [Gold]> <when number of [Stage] is equal to [0]> <hidden from users>",
+        "Only available <when above [299] [Gold]> <when number of [TheAge] is equal to [0]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-300] [Gold]",
 "Triggers a [Buy] event",
@@ -30,7 +30,7 @@
     {
         "text":"Enter the next era",//进入下一个时代
         "uniques":[
-        "Only available <when above [449] [Gold]> <when number of [Stage] is equal to [1]> <hidden from users>",
+        "Only available <when above [449] [Gold]> <when number of [TheAge] is equal to [1]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-450] [Gold]",
 "Triggers a [Buy] event",
@@ -39,7 +39,7 @@
     {
         "text":"Enter the next era",//进入下一个时代
         "uniques":[
-        "Only available <when above [649] [Gold]> <when number of [Stage] is equal to [2]> <hidden from users>",
+        "Only available <when above [649] [Gold]> <when number of [TheAge] is equal to [2]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-650] [Gold]",
 "Triggers a [Buy] event",
@@ -48,7 +48,7 @@
     {
         "text":"Enter the next era",//进入下一个时代
         "uniques":[
-        "Only available <when above [899] [Gold]> <when number of [Stage] is equal to [3]> <hidden from users>",
+        "Only available <when above [899] [Gold]> <when number of [TheAge] is equal to [3]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-900] [Gold]",
 "Triggers a [Buy] event",
@@ -57,7 +57,7 @@
     {
         "text":"Enter the next era",//进入下一个时代
         "uniques":[
-        "Only available <when above [1199] [Gold]> <when number of [Stage] is equal to [4]> <hidden from users>",
+        "Only available <when above [1199] [Gold]> <when number of [TheAge] is equal to [4]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-1200] [Gold]",
 "Triggers a [Buy] event",
@@ -66,7 +66,7 @@
     {
         "text":"Enter the next era",//进入下一个时代
         "uniques":[
-        "Only available <when above [1199] [Gold]> <when number of [Stage] is equal to [5]> <hidden from users>",
+        "Only available <when above [1199] [Gold]> <when number of [TheAge] is equal to [5]> <hidden from users>",
         "Instantly provides [1] [TheAge] <hidden from users>",
         "Gain [-1200] [Gold]",
 "Triggers a [Buy] event",
