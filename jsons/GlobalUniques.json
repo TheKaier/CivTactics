@@ -37,7 +37,7 @@
         
         
         
-        "Triggers a [Introduce] event <upon founding a city> <when [Pub Chess] Victory is enabled>",
+        "Triggers a [Introduce] event <upon turn start><when number of [turns] is equal to [1]>",
         
         
         
@@ -281,26 +281,38 @@
         
     
     
+    //游牧
+    //"Instantly provides [10] [Size of army] <when [Nomadism] Victory is enabled>",
+    
+    "Discover [Nomadism] <when [Nomadism] Victory is enabled>",
+    "[2] free [Archer] units appear <when [Nomadism] Victory is enabled>",
+    "[2] free [Warrior] units appear <when [Nomadism] Victory is enabled>",
+    "[1] free [Scout] units appear <when [Nomadism] Victory is enabled>",
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    "Instantly provides [1] [Stage] <when number of [turns] is equal to [1]> <upon turn start> <when [Nomadism] Victory is enabled>",
+    "Instantly provides [1] [Stage] <when number of [turns] is equal to [20]> <upon turn start> <when [Nomadism] Victory is enabled>",
+    "Instantly provides [1] [Stage] <when number of [turns] is equal to [40]> <upon turn start> <when [Nomadism] Victory is enabled>",
+    "Instantly provides [1] [Stage] <when number of [turns] is equal to [60]> <upon turn start> <when [Nomadism] Victory is enabled>",
+    "Instantly provides [1] [Stage] <when number of [turns] is equal to [80]> <upon turn start> <when [Nomadism] Victory is enabled>",
+    "Instantly provides [1] [Stage] <when number of [turns] is equal to [100]> <upon turn start> <when [Nomadism] Victory is enabled>",
     ],
     "unitUniques": [
     
     "Gain [3] [Gold] <upon defeating a [Military] unit> <when [The Great Battlefield] Victory is enabled>",
+    //游牧
+    //"Instantly provides [10] [Size of army] <upon defeating a [Settler] unit> <when [Nomadism] Victory is enabled>",
+    "[This Unit] takes [100] damage <when number of [King] is equal to [0]> <upon turn start> <when [Nomadism] Victory is enabled>",
     
     
+    //"Gain [15] [Gold] <in [[Resource point] 1] tiles> <upon turn start> <for [Military] units> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled>",
+    //"Gain [15] [Gold] <in [[Resource point] 2] tiles> <upon turn start> <for [Military] units> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled>",
+    //"Gain [15] [Gold] <in [[Resource point] 3] tiles> <upon turn start> <for [Military] units> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled>",
     
-    
+    "Instantly provides [15] [Material] <in [[Resource point] 1] tiles> <upon turn start> <for [Military] units> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled>",
+    "Instantly provides [15] [Material] <in [[Resource point] 2] tiles> <upon turn start> <for [Military] units> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled>",
+    "Instantly provides [15] [Material] <in [[Resource point] 3] tiles> <upon turn start> <for [Military] units> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled>",
     ]
     
     

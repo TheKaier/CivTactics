@@ -45,12 +45,13 @@
         { 
                 "text": "The Great Battlefield",
                 "size":40
+                "starred":true,
+                "color":"#FFFF00"
             },
         {
                 "text": "The Great Battlefield is very simple, you start with a small army, you can use immigrants to build cities, workers to build roads, Plan your defenses. You will gain a unit for every 10 turns, depending on the number of cities you have."
                 "size":25,
-                "starred":true,
-                "color":"#FFFF00"
+                
             },
         
         
@@ -63,12 +64,13 @@
         { 
                 "text": "Pub Chess",
                 "size":40
+                "starred":true,
+                "color":"#FFFF00"
             },
         {
                 "text": "Pub Chess content is divided into 5 phases:  Initial Phase, Purchase Phase, Combat Phase, Ranking Phase, and Settlement Phase."
                 "size":25,
-                "starred":true,
-                "color":"#FFFF00"
+                
             },
             { 
                 "text": "Initial Phase",
@@ -110,7 +112,30 @@
                 "text": "During the Settlement Phase, players receive corresponding [Gold] rewards before returning to the Initial Phase.",
                 "size":20
             },
-
+            
+            
+            
+            
+            
+            
+            { 
+                "text": "Nomadism",
+                "size":40
+                "starred":true,
+                "color":"#FFFF00"
+            },
+        {
+                "text": "Move your units to Resource point for supplies, rotating the Resource point every 10 rounds in the order 1 → 2 → 3 → 1"
+                "size":20,
+            },
+            { 
+                "text": "Move your Settler unit to the Resource point and buy new units. Rotate the Resource point every 10 rounds in order 2 → 3 → 1 → 2",
+                "size":20
+            },
+            
+            
+            
+            
             {
                 "separator":true,
                 "color":"#FFFFFF",

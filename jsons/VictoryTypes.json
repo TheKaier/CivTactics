@@ -41,7 +41,13 @@
         "Build [Pub Chess]"
         ]
     },
-    
+    {
+        "name":"Nomadism",
+        "hiddenInVictoryScreen":true,
+        "milestones":[
+        "Build [Nomadism]"
+        ]
+    },
     
     
     

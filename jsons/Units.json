@@ -19,7 +19,62 @@
 		"movement": 2,
 		"cost": 0,
 		"uniques": ["Unbuildable",
-		"Founds a new city <by consuming this unit>",
+		"Founds a new city <by consuming this unit> <when [Nomadism] Victory is disabled>",
+		"Consumes [-1] [King] <when [Nomadism] Victory is enabled> <hidden from users>",
+		//"[This Unit] takes [100] damage <upon turn start> <when [Nomadism] Victory is enabled> <hidden from users>",
+		//"[1] free [Settler] units appear <when above [-1] [Stage]> <costs [50] [Material]> <when [Nomadism] Victory is enabled> <hidden from users>",
+		//"[1] free [UnitName] units appear <when above [0] [Stage]> <costs [50] [Material]> <when [Nomadism] Victory is enabled> <hidden from users>",
+		"[1] free [Scout] units appear <when above [0] [Stage]> <costs [30] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Warrior] units appear <when above [0] [Stage]> <costs [40] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Archer] units appear <when above [0] [Stage]> <costs [45] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Chariot Archer] units appear <when above [0] [Stage]> <costs [75] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Spearman] units appear <when above [0] [Stage]> <costs [60] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+
+"[1] free [Horseman] units appear <when above [1] [Stage]> <costs [60] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Composite Bowman] units appear <when above [1] [Stage]> <costs [60] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Swordsman] units appear <when above [1] [Stage]> <costs [75] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+
+"[1] free [Pikeman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Knight] units appear <when above [2] [Stage]> <costs [150] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Crossbowman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Longswordsman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+
+"[1] free [Musketman] units appear <when above [3] [Stage]> <costs [175] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Lancer] units appear <when above [3] [Stage]> <costs [200] [Material]> <in [[Resource point] 2] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [0]> <when [Nomadism] Victory is enabled> <hidden from users>",
+///////////
+//////////
+/////////
+"[1] free [Scout] units appear <when above [0] [Stage]> <costs [30] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Warrior] units appear <when above [0] [Stage]> <costs [40] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Archer] units appear <when above [0] [Stage]> <costs [45] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Chariot Archer] units appear <when above [0] [Stage]> <costs [75] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Spearman] units appear <when above [0] [Stage]> <costs [60] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Horseman] units appear <when above [1] [Stage]> <costs [60] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Composite Bowman] units appear <when above [1] [Stage]> <costs [60] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Swordsman] units appear <when above [1] [Stage]> <costs [75] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Pikeman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Knight] units appear <when above [2] [Stage]> <costs [150] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Crossbowman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Longswordsman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Musketman] units appear <when above [3] [Stage]> <costs [175] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Lancer] units appear <when above [3] [Stage]> <costs [200] [Material]> <in [[Resource point] 3] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [1]> <when [Nomadism] Victory is enabled> <hidden from users>",
+//////////
+/////////
+////////
+"[1] free [Scout] units appear <when above [0] [Stage]> <costs [30] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Warrior] units appear <when above [0] [Stage]> <costs [40] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Archer] units appear <when above [0] [Stage]> <costs [45] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Chariot Archer] units appear <when above [0] [Stage]> <costs [75] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Spearman] units appear <when above [0] [Stage]> <costs [60] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Horseman] units appear <when above [1] [Stage]> <costs [60] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Composite Bowman] units appear <when above [1] [Stage]> <costs [60] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Swordsman] units appear <when above [1] [Stage]> <costs [75] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Pikeman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Knight] units appear <when above [2] [Stage]> <costs [150] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Crossbowman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Longswordsman] units appear <when above [2] [Stage]> <costs [125] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Musketman] units appear <when above [3] [Stage]> <costs [175] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
+"[1] free [Lancer] units appear <when above [3] [Stage]> <costs [200] [Material]> <in [[Resource point] 1] tiles> <when number of [[[[turns] % 100] - [[turns] % 10]] % 3] is equal to [2]> <when [Nomadism] Victory is enabled> <hidden from users>",
 		],
 		//"hurryCostModifier": 20
 	},
@@ -931,4 +986,21 @@
 			"Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
+	/*{
+		"name": "King",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 4,
+		"cost": 0,
+		//"obsoleteTech": "Scientific Theory",
+		"uniques": [
+		"Unbuildable",
+		"[-1] Sight",
+		"No defensive terrain bonus",
+		"Cannot attack",
+		"Provides [1] [King]",
+		],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},*/
 ]

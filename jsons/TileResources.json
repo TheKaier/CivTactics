@@ -1,5 +1,66 @@
 [
-{
+    {
+		"name": "[Resource point] 1",//资源点
+		"resourceType": "Strategic",
+		"revealedBy": "Nomadism",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains","Marsh","Oasis"],
+		"uniques": [
+		"Generated on every [200] tiles <in [Featureless] tiles>",
+		"Resource point",
+		]
+	},
+	{
+		"name": "[Resource point] 2",
+		"resourceType": "Strategic",
+		"revealedBy": "Nomadism",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains","Marsh","Oasis"],
+		"uniques": [
+		"Generated on every [200] tiles <in [Featureless] tiles>",
+		"Resource point",
+		]
+	},
+	{
+		"name": "[Resource point] 3",
+		"resourceType": "Strategic",
+		"revealedBy": "Nomadism",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains","Marsh","Oasis"],
+		"uniques": [
+		"Generated on every [200] tiles <in [Featureless] tiles>",
+		"Resource point",
+		]
+	},
+    {
+		"name": "Size of army",//军队规模
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        //"Not shown on world screen <when [Nomadism] Victory is disabled>",//不显示
+        "Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "Material",//
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+"Not shown on world screen <when [Nomadism] Victory is disabled>",//不显示
+		]
+	},
+	{
+		"name": "King",//
+		"resourceType": "Strategic",
+		"revealedBy": "Store Tech",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		//"Stockpiled"//库存
+"Not shown on world screen <when [Nomadism] Victory is disabled>",//不显示
+		]
+	},
+    {
 		"name": "Stage",//阶段
 		"resourceType": "Strategic",
 		"revealedBy": "Store Tech",
