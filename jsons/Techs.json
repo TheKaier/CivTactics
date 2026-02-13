@@ -86,7 +86,46 @@
 },
 
 
-
+{
+"name":"Tech 6",//
+"row":9,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+{
+"name":"Tech 7",//
+"row":10,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+{
+"name":"Tech 8",//
+"row":11,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+{
+"name":"Tech 9",//
+"row":12,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
+{
+"name":"Tech 10",//
+"row":13,
+"quote":"",
+"uniques":[
+"Unavailable",
+]
+},
 
 ]
     },

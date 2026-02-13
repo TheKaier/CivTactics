@@ -102,7 +102,7 @@
         
         //The Great Battlefield
         "Provides [1] [Slot position] <when [The Great Battlefield] Victory is enabled>",
-        
+        "[+20]% Strength for cities <for every [ceil([turns] / 10)]>",
         
         
         "[2] free [Worker] units appear <when [The Great Battlefield] Victory is enabled>",

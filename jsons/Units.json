@@ -983,6 +983,18 @@
             "[All] units gain the [Retreat] promotion <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
             
             
+            "[All] units gain the [Airborne] promotion <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
+            "[All] units gain the [Training] promotion <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
+            "Turn this tile into a [Hill] tile <for all movement> <[1] times> <after which this unit is consumed> <when [The Great Battlefield] Victory is enabled>",
+            
+            
+            
+            
+            
+            
+            
+            
+            
 			"Unbuildable", "Uncapturable"],
 		"movement": 2
 	},

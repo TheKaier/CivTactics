@@ -15,7 +15,7 @@
 		
 		"Doing so will consume this opportunity to choose a Promotion",
 		
-		"[This Unit] gains [2] movement",
+		"[This Unit] gains [3] movement",
 		]
 	},
 	{
@@ -23,7 +23,7 @@
 		"uniques": [
 		
 		"Doing so will consume this opportunity to choose a Promotion",
-		"[This Unit] gains the [[Ambush]] status for [2] turn(s)",
+		"[This Unit] gains the [[Ambush]] status for [3] turn(s)",
 		//"Invisible to non-adjacent units",
 		]
 	},
@@ -44,7 +44,7 @@
 		"uniques": [
 		
 		"Doing so will consume this opportunity to choose a Promotion",
-		"[This Unit] gains the [[Do Alternately]] status for [2] turn(s)",
+		"[This Unit] gains the [[Do Alternately]] status for [3] turn(s)",
 		//"Ignores Zone of Control",
 		]
 	},
@@ -53,7 +53,7 @@
 		"uniques": [
 		
 		"[This Unit] gains [2] movement <upon defeating a [Wounded] unit>",
-		"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+		"[-15]% Strength for enemy [Military] units in adjacent [All] tiles",
 		"Ignores Zone of Control",
 		]
 	},
@@ -65,7 +65,7 @@
 	    "name": "Retreat",//
 		"uniques": [
 		"Doing so will consume this opportunity to choose a Promotion",
-		"[This Unit] gains the [[Retreat]] status for [2] turn(s)",
+		"[This Unit] gains the [[Retreat]] status for [3] turn(s)",
 		//"Withdraws before melee combat",
 		]
 	},
@@ -78,11 +78,60 @@
 		"Withdraws before melee combat",
 		]
 	},
-            
-            
-            
-            
-            
+	{
+	    "name": "Training",//
+		"uniques": [
+		
+		"Doing so will consume this opportunity to choose a Promotion",
+		
+		"[This Unit] gains [10] XP",
+		]
+	},
+	{
+	    "name": "Airborne",//
+		"uniques": [
+		"Doing so will consume this opportunity to choose a Promotion",
+		"[This Unit] gains the [[Airborne]] status for [1] turn(s)",
+		//"Withdraws before melee combat",
+		]
+	},
+
+            {
+	    "name": "[Airborne]",//
+		"uniques": [
+		
+		
+		"May Paradrop to [Enemy Land] tiles up to [7] tiles away",
+		"May Paradrop to [Friendly Land] tiles up to [7] tiles away",
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	// Ranged+Siege
 	{
 		"name": "Accuracy I",
